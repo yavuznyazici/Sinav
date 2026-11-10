@@ -1,0 +1,3802 @@
+[
+  {
+    "id": 1,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "Neither the manager nor the assistants remembered to bring ___ identification badges.",
+    "options": [
+      "his",
+      "their",
+      "its",
+      "them"
+    ],
+    "answer": 1,
+    "translation": "Ne müdür ne de asistanlar kimlik kartlarını getirmeyi hatırladı.",
+    "explanation": "Neither...nor yapısında fiil ve zamir, yakınındaki çoğul özne olan assistants ile uyumludur; burada their kullanılır."
+  },
+  {
+    "id": 2,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The company introduced a new policy, but few employees understood ___ implications.",
+    "options": [
+      "it",
+      "its",
+      "it’s",
+      "itself"
+    ],
+    "answer": 1,
+    "translation": "Şirket yeni bir politika yürürlüğe koydu ancak çok az çalışan onun sonuçlarını anladı.",
+    "explanation": "Policy tekil bir isimdir. İyelik bildiren its kullanılır; it’s, it is anlamındadır."
+  },
+  {
+    "id": 3,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The candidates ___ applications were incomplete were contacted yesterday.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": 2,
+    "translation": "Başvuruları eksik olan adaylarla dün iletişime geçildi.",
+    "explanation": "Ardından isim (applications) gelen iyelik ilgi zamiri whose kullanılır."
+  },
+  {
+    "id": 4,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The project team completed the task by ___.",
+    "options": [
+      "them",
+      "their",
+      "themselves",
+      "itself"
+    ],
+    "answer": 2,
+    "translation": "Proje ekibi görevi kendi başına tamamladı.",
+    "explanation": "Özne project team kendi eylemini vurguladığı için dönüşlülük zamiri themselves kullanılır."
+  },
+  {
+    "id": 5,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "I spoke to the consultant ___ you recommended.",
+    "options": [
+      "whose",
+      "whom",
+      "which",
+      "where"
+    ],
+    "answer": 1,
+    "translation": "Önerdiğin danışmanla konuştum.",
+    "explanation": "Recommend fiilinin nesnesi olan kişi için whom kullanılabilir; günlük kullanımda who da duyulsa da burada whom doğru seçenektir."
+  },
+  {
+    "id": 6,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "Each of the devices has ___ own maintenance schedule.",
+    "options": [
+      "their",
+      "its",
+      "them",
+      "theirs"
+    ],
+    "answer": 1,
+    "translation": "Cihazların her birinin kendine ait bakım takvimi vardır.",
+    "explanation": "Each tekil kabul edilir; iyelik sıfatı its olmalıdır."
+  },
+  {
+    "id": 7,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The two departments blamed ___ for the delay.",
+    "options": [
+      "one another",
+      "themselves",
+      "itself",
+      "each other’s"
+    ],
+    "answer": 0,
+    "translation": "İki departman gecikme nedeniyle birbirini suçladı.",
+    "explanation": "İki taraf arasındaki karşılıklı eylem için one another veya each other kullanılır."
+  },
+  {
+    "id": 8,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The engineer to ___ I sent the report has not replied.",
+    "options": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+    ],
+    "answer": 2,
+    "translation": "Raporu gönderdiğim mühendisten henüz yanıt gelmedi.",
+    "explanation": "Send fiilinin dolaylı nesnesi olan kişi için edattan sonra whom kullanılır."
+  },
+  {
+    "id": 9,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "This is the department ___ equipment was upgraded last year.",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "answer": 1,
+    "translation": "Bu, ekipmanları geçen yıl yenilenen departmandır.",
+    "explanation": "Departmana ait ekipmanı belirten iyelik ilişkisi için whose kullanılır."
+  },
+  {
+    "id": 10,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "There is ___ I would like to clarify before we proceed.",
+    "options": [
+      "anything",
+      "something",
+      "nothing",
+      "everywhere"
+    ],
+    "answer": 1,
+    "translation": "Devam etmeden önce açıklığa kavuşturmak istediğim bir şey var.",
+    "explanation": "Olumlu cümlede belirsiz bir şeyden söz ederken something kullanılır."
+  },
+  {
+    "id": 11,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "By the time the technician arrived, the system ___.",
+    "options": [
+      "already shut down",
+      "has already shut down",
+      "had already shut down",
+      "was already shutting down"
+    ],
+    "answer": 2,
+    "translation": "Teknisyen geldiğinde sistem çoktan kapanmıştı.",
+    "explanation": "Geçmişteki başka bir olaydan daha önce gerçekleşen eylem past perfect ile anlatılır."
+  },
+  {
+    "id": 12,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The new procedures are expected ___ next month.",
+    "options": [
+      "to introduce",
+      "to be introduced",
+      "introducing",
+      "being introduced"
+    ],
+    "answer": 1,
+    "translation": "Yeni prosedürlerin gelecek ay uygulamaya konması bekleniyor.",
+    "explanation": "Prosedürler eylemi yapan değil, eylemden etkilenen konumdadır; passive infinitive gerekir."
+  },
+  {
+    "id": 13,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "If the data ___ more carefully, the error would have been detected.",
+    "options": [
+      "checked",
+      "had been checked",
+      "would check",
+      "has checked"
+    ],
+    "answer": 1,
+    "translation": "Veriler daha dikkatli kontrol edilmiş olsaydı hata tespit edilirdi.",
+    "explanation": "Third conditional yapısında if bölümünde past perfect passive kullanılır."
+  },
+  {
+    "id": 14,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "She denied ___ the confidential document.",
+    "options": [
+      "to share",
+      "share",
+      "having shared",
+      "to have share"
+    ],
+    "answer": 2,
+    "translation": "Gizli belgeyi paylaştığını inkâr etti.",
+    "explanation": "Deny fiilinden sonra gerund gelir; eylemin daha önce gerçekleştiğini vurgulamak için having shared uygundur."
+  },
+  {
+    "id": 15,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The company ___ its energy consumption steadily since 2022.",
+    "options": [
+      "reduced",
+      "is reducing",
+      "has been reducing",
+      "had reduced"
+    ],
+    "answer": 2,
+    "translation": "Şirket 2022’den beri enerji tüketimini istikrarlı biçimde azaltıyor.",
+    "explanation": "Since ile geçmişte başlayıp hâlâ süren süreç için present perfect continuous kullanılır."
+  },
+  {
+    "id": 16,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "Hardly ___ the meeting when the fire alarm went off.",
+    "options": [
+      "we had started",
+      "had we started",
+      "we started",
+      "did we start"
+    ],
+    "answer": 1,
+    "translation": "Yangın alarmı çaldığında toplantıya henüz başlamıştık.",
+    "explanation": "Hardly cümle başında kullanıldığında devrik yapı gerekir: Hardly had + subject + V3."
+  },
+  {
+    "id": 17,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The equipment needs ___ before it can be returned to service.",
+    "options": [
+      "inspect",
+      "inspecting",
+      "to inspect",
+      "inspected"
+    ],
+    "answer": 1,
+    "translation": "Ekipmanın tekrar hizmete alınmadan önce kontrol edilmesi gerekiyor.",
+    "explanation": "Need + gerund, edilgen anlam taşır: needs inspecting = needs to be inspected."
+  },
+  {
+    "id": 18,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "I would rather you ___ the issue with the supplier directly.",
+    "options": [
+      "discuss",
+      "discussed",
+      "will discuss",
+      "have discussed"
+    ],
+    "answer": 1,
+    "translation": "Konuyu doğrudan tedarikçiyle görüşmeni tercih ederim.",
+    "explanation": "Would rather + başka özne + past simple yapısı tercih bildirir."
+  },
+  {
+    "id": 19,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The report ___ by the time the director asks for it.",
+    "options": [
+      "will complete",
+      "will have been completed",
+      "has completed",
+      "will be completing"
+    ],
+    "answer": 1,
+    "translation": "Direktör raporu istediğinde rapor tamamlanmış olacak.",
+    "explanation": "Gelecekte belirli bir zamana kadar tamamlanmış olacak edilgen eylem future perfect passive ile kurulur."
+  },
+  {
+    "id": 20,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "He is believed ___ the company two years ago.",
+    "options": [
+      "to leave",
+      "to have left",
+      "leaving",
+      "having left"
+    ],
+    "answer": 1,
+    "translation": "Onun şirketten iki yıl önce ayrıldığı düşünülüyor.",
+    "explanation": "Reporting passive yapısında daha önceki eylem için perfect infinitive (to have + V3) kullanılır."
+  },
+  {
+    "id": 21,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "Not only ___ the deadline, but she also exceeded the quality targets.",
+    "options": [
+      "she met",
+      "did she meet",
+      "she had met",
+      "met she"
+    ],
+    "answer": 1,
+    "translation": "Sadece son teslim tarihine uymakla kalmadı, kalite hedeflerini de aştı.",
+    "explanation": "Not only cümle başındaysa ilk yan cümlede yardımcı fiil özneden önce gelir."
+  },
+  {
+    "id": 22,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The proposal, ___ was submitted yesterday, needs further review.",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "what"
+    ],
+    "answer": 2,
+    "translation": "Dün sunulan teklifin daha fazla incelenmesi gerekiyor.",
+    "explanation": "Virgülle ayrılan açıklayıcı relative clause içinde that kullanılmaz; nesne olmayan şey için which seçilir."
+  },
+  {
+    "id": 23,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "Only after the inspection ___ the scale of the damage.",
+    "options": [
+      "we understood",
+      "we had understood",
+      "did we understand",
+      "understood we"
+    ],
+    "answer": 2,
+    "translation": "Hasarının boyutunu ancak incelemeden sonra anladık.",
+    "explanation": "Only after ile başlayan vurgu yapısında ana cümlede devrik yapı kullanılır."
+  },
+  {
+    "id": 24,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The reason ___ the project was delayed remains unclear.",
+    "options": [
+      "which",
+      "why",
+      "where",
+      "whose"
+    ],
+    "answer": 1,
+    "translation": "Projenin neden geciktiği hâlâ belirsiz.",
+    "explanation": "Reason ile neden bildiren relative adverb why kullanılır."
+  },
+  {
+    "id": 25,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "Despite ___ several warnings, the operator continued using the machine.",
+    "options": [
+      "receive",
+      "received",
+      "having received",
+      "to receive"
+    ],
+    "answer": 2,
+    "translation": "Birkaç uyarı almasına rağmen operatör makineyi kullanmaya devam etti.",
+    "explanation": "Despite bir edattır; ardından isim veya gerund gelir. Önceden gerçekleşen eylem için having received uygundur."
+  },
+  {
+    "id": 26,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "There is ___ evidence to support the claim, so we cannot draw a conclusion.",
+    "options": [
+      "few",
+      "a few",
+      "little",
+      "many"
+    ],
+    "answer": 2,
+    "translation": "İddiayı destekleyecek çok az kanıt var, bu nedenle sonuca varamayız.",
+    "explanation": "Evidence sayılamayan isimdir; yetersiz miktar için little kullanılır."
+  },
+  {
+    "id": 27,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "___ of the equipment was damaged during the storm.",
+    "options": [
+      "Several",
+      "Many",
+      "A large amount",
+      "A number"
+    ],
+    "answer": 2,
+    "translation": "Fırtına sırasında ekipmanın büyük bir kısmı hasar gördü.",
+    "explanation": "Equipment sayılamayan isimdir; a large amount of ile kullanılır."
+  },
+  {
+    "id": 28,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "The revised process requires ___ staff than the previous one.",
+    "options": [
+      "less",
+      "fewer",
+      "few",
+      "little"
+    ],
+    "answer": 1,
+    "translation": "Revize edilen süreç önceki sürece göre daha az personel gerektiriyor.",
+    "explanation": "Staff burada sayılabilir çalışanlar anlamında kullanıldığı için fewer tercih edilir."
+  },
+  {
+    "id": 29,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "We have ___ time left, so we should focus on the essential tasks.",
+    "options": [
+      "a few",
+      "few",
+      "little",
+      "many"
+    ],
+    "answer": 2,
+    "translation": "Az zamanımız kaldı, bu yüzden temel görevlere odaklanmalıyız.",
+    "explanation": "Time sayılamayan isimdir; az miktar için little kullanılır."
+  },
+  {
+    "id": 30,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "___ applicants who met the requirements were invited for an interview.",
+    "options": [
+      "Every",
+      "Each",
+      "A number of",
+      "Much"
+    ],
+    "answer": 2,
+    "translation": "Şartları karşılayan çok sayıda başvuru sahibi mülakata davet edildi.",
+    "explanation": "A number of + çoğul isim, çok sayıda anlamındadır ve çoğul fiille kullanılır."
+  },
+  {
+    "id": 31,
+    "category": "Grammar",
+    "topic": "Articles & Prepositions",
+    "prompt": "The manager is responsible ___ ensuring that all safety checks are completed.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 1,
+    "translation": "Müdür tüm güvenlik kontrollerinin tamamlanmasını sağlamaktan sorumludur.",
+    "explanation": "Responsible for kalıbı kullanılır."
+  },
+  {
+    "id": 32,
+    "category": "Grammar",
+    "topic": "Articles & Prepositions",
+    "prompt": "The aircraft was delayed ___ to adverse weather conditions.",
+    "options": [
+      "because",
+      "due",
+      "owing",
+      "since"
+    ],
+    "answer": 1,
+    "translation": "Uçak olumsuz hava koşulları nedeniyle gecikti.",
+    "explanation": "Due to + isim öbeği neden bildirir."
+  },
+  {
+    "id": 33,
+    "category": "Grammar",
+    "topic": "Conjunctions",
+    "prompt": "___ the equipment is expensive, its long-term operating costs are relatively low.",
+    "options": [
+      "Despite",
+      "Although",
+      "Because of",
+      "In spite"
+    ],
+    "answer": 1,
+    "translation": "Ekipman pahalı olmasına rağmen uzun vadeli işletme maliyetleri nispeten düşüktür.",
+    "explanation": "Although ardından özne ve fiil içeren tam cümle gelir."
+  },
+  {
+    "id": 34,
+    "category": "Grammar",
+    "topic": "Conjunctions",
+    "prompt": "The team postponed the launch ___ several safety concerns had not been resolved.",
+    "options": [
+      "whereas",
+      "unless",
+      "since",
+      "even though"
+    ],
+    "answer": 2,
+    "translation": "Birkaç güvenlik endişesi çözülmediği için ekip lansmanı erteledi.",
+    "explanation": "Since burada neden bildiren bağlaçtır."
+  },
+  {
+    "id": 35,
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The manager gave a very ___ explanation of the revised procedure.",
+    "options": [
+      "clarity",
+      "clear",
+      "clearly",
+      "clarify"
+    ],
+    "answer": 1,
+    "translation": "Müdür revize edilen prosedürü çok açık bir şekilde açıkladı.",
+    "explanation": "İsim explanation öncesinde onu niteleyen sıfat clear gerekir."
+  },
+  {
+    "id": 36,
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The company aims to improve operational ___.",
+    "options": [
+      "efficient",
+      "efficiency",
+      "efficiently",
+      "inefficient"
+    ],
+    "answer": 1,
+    "translation": "Şirket operasyonel verimliliği artırmayı hedefliyor.",
+    "explanation": "Operational sıfatından sonra isim gerekir; efficiency isimdir."
+  },
+  {
+    "id": 37,
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The findings were ___ different from what we had expected.",
+    "options": [
+      "consider",
+      "considerable",
+      "considerably",
+      "consideration"
+    ],
+    "answer": 2,
+    "translation": "Bulgular beklediğimizden oldukça farklıydı.",
+    "explanation": "Different sıfatını nitelemek için zarf considerably kullanılır."
+  },
+  {
+    "id": 38,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "Neither of the solutions is ideal, but ___ is more affordable.",
+    "options": [
+      "both",
+      "either",
+      "one",
+      "another"
+    ],
+    "answer": 2,
+    "translation": "Çözümlerden hiçbiri ideal değil ancak biri daha uygun fiyatlı.",
+    "explanation": "İki seçenekten birine gönderme yapan one uygundur."
+  },
+  {
+    "id": 39,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The responsibility for the mistake lies with ___, not with the supplier.",
+    "options": [
+      "we",
+      "our",
+      "us",
+      "ours"
+    ],
+    "answer": 2,
+    "translation": "Hatanın sorumluluğu tedarikçide değil bizdedir.",
+    "explanation": "With edatından sonra nesne zamiri us kullanılır."
+  },
+  {
+    "id": 40,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The machine ___ continuously for twelve hours before it was stopped.",
+    "options": [
+      "operated",
+      "had been operating",
+      "has operated",
+      "is operating"
+    ],
+    "answer": 1,
+    "translation": "Makine durdurulmadan önce on iki saat boyunca aralıksız çalışıyordu.",
+    "explanation": "Geçmişte başka bir olaydan önce devam eden süreç past perfect continuous ile anlatılır."
+  },
+  {
+    "id": 41,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "You should avoid ___ assumptions without checking the figures.",
+    "options": [
+      "make",
+      "to make",
+      "making",
+      "made"
+    ],
+    "answer": 2,
+    "translation": "Rakamları kontrol etmeden varsayımda bulunmaktan kaçınmalısın.",
+    "explanation": "Avoid fiilinden sonra gerund kullanılır."
+  },
+  {
+    "id": 42,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The more carefully the data is analysed, ___ the conclusions will be.",
+    "options": [
+      "the reliable",
+      "more reliable",
+      "the more reliable",
+      "most reliable"
+    ],
+    "answer": 2,
+    "translation": "Veriler ne kadar dikkatli analiz edilirse sonuçlar o kadar güvenilir olur.",
+    "explanation": "The more..., the more... karşılaştırmalı paralel yapı gerekir."
+  },
+  {
+    "id": 43,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "What the report fails to explain ___ why costs increased.",
+    "options": [
+      "are",
+      "have been",
+      "is",
+      "being"
+    ],
+    "answer": 2,
+    "translation": "Raporun açıklayamadığı şey maliyetlerin neden arttığıdır.",
+    "explanation": "What ile başlayan noun clause tekil bir kavramdır; is kullanılır."
+  },
+  {
+    "id": 44,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "Only ___ of the applicants had the necessary experience.",
+    "options": [
+      "a little",
+      "a few",
+      "much",
+      "every"
+    ],
+    "answer": 1,
+    "translation": "Başvuru sahiplerinden yalnızca birkaçı gerekli deneyime sahipti.",
+    "explanation": "Applicants sayılabilir çoğul isimdir; a few kullanılır."
+  },
+  {
+    "id": 45,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "The project consumed twice as ___ energy as originally estimated.",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "little"
+    ],
+    "answer": 1,
+    "translation": "Proje başlangıçta tahmin edilenden iki kat fazla enerji tüketti.",
+    "explanation": "Energy sayılamayan isim olduğundan much kullanılır."
+  },
+  {
+    "id": 46,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The employees were asked to submit ___ feedback individually.",
+    "options": [
+      "his",
+      "their",
+      "them",
+      "theirs"
+    ],
+    "answer": 1,
+    "translation": "Çalışanlardan geri bildirimlerini bireysel olarak sunmaları istendi.",
+    "explanation": "Employees çoğul olduğu için their kullanılır."
+  },
+  {
+    "id": 47,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The technician showed the visitors around the workshop and explained the process to ___.",
+    "options": [
+      "they",
+      "their",
+      "them",
+      "theirs"
+    ],
+    "answer": 2,
+    "translation": "Teknisyen ziyaretçilere atölyeyi gezdirdi ve süreci onlara açıkladı.",
+    "explanation": "To edatından sonra nesne zamiri them kullanılır."
+  },
+  {
+    "id": 48,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The technician ___ repaired the unit works night shifts.",
+    "options": [
+      "which",
+      "whose",
+      "who",
+      "whom"
+    ],
+    "answer": 2,
+    "translation": "Üniteyi tamir eden teknisyen gece vardiyasında çalışıyor.",
+    "explanation": "Kişiyi özne olarak tanımlayan relative pronoun who kullanılır."
+  },
+  {
+    "id": 49,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The person ___ responsible for the delay has apologised.",
+    "options": [
+      "which is",
+      "who is",
+      "whom is",
+      "whose is"
+    ],
+    "answer": 1,
+    "translation": "Gecikmeden sorumlu kişi özür diledi.",
+    "explanation": "Kişiyi özne olarak tanımlayan who is yapısı gerekir."
+  },
+  {
+    "id": 50,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "I have two proposals; ___ of them would reduce costs.",
+    "options": [
+      "either",
+      "neither",
+      "none",
+      "every"
+    ],
+    "answer": 0,
+    "translation": "İki teklifim var; ikisinden herhangi biri maliyetleri azaltabilir.",
+    "explanation": "İki seçenekten herhangi birini ifade etmek için either kullanılır."
+  },
+  {
+    "id": 51,
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The department has two options, but ___ seems practical.",
+    "options": [
+      "neither",
+      "both",
+      "all",
+      "every"
+    ],
+    "answer": 0,
+    "translation": "Departmanın iki seçeneği var ancak hiçbiri uygulanabilir görünmüyor.",
+    "explanation": "Olumsuz anlam taşıyan neither iki seçeneğin ikisini de reddeder."
+  },
+  {
+    "id": 52,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The supplier promised ___ the replacement parts by Friday.",
+    "options": [
+      "deliver",
+      "delivering",
+      "to deliver",
+      "delivered"
+    ],
+    "answer": 2,
+    "translation": "Tedarikçi yedek parçaları cuma gününe kadar teslim edeceğine söz verdi.",
+    "explanation": "Promise fiilinden sonra to-infinitive gelir."
+  },
+  {
+    "id": 53,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The supplier agreed ___ the faulty units at no extra cost.",
+    "options": [
+      "replace",
+      "replacing",
+      "to replace",
+      "replaced"
+    ],
+    "answer": 2,
+    "translation": "Tedarikçi arızalı üniteleri ek ücret almadan değiştirmeyi kabul etti.",
+    "explanation": "Agree fiilinden sonra to-infinitive gelir."
+  },
+  {
+    "id": 54,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The report is worth ___.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "to be read"
+    ],
+    "answer": 1,
+    "translation": "Rapor okunmaya değer.",
+    "explanation": "Worth sıfatından sonra gerund kullanılır."
+  },
+  {
+    "id": 55,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The instructions are worth ___ before the installation begins.",
+    "options": [
+      "review",
+      "to review",
+      "reviewing",
+      "reviewed"
+    ],
+    "answer": 2,
+    "translation": "Kurulum başlamadan önce talimatları gözden geçirmeye değer.",
+    "explanation": "Worth sıfatından sonra gerund kullanılır."
+  },
+  {
+    "id": 56,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "If I ___ about the change, I would have informed the team.",
+    "options": [
+      "knew",
+      "had known",
+      "would know",
+      "have known"
+    ],
+    "answer": 1,
+    "translation": "Değişikliği bilseydim ekibi bilgilendirirdim.",
+    "explanation": "Geçmişte gerçekleşmemiş koşul için third conditional: if + past perfect."
+  },
+  {
+    "id": 57,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "If the operator had followed the checklist, the error ___.",
+    "options": [
+      "would avoid",
+      "would have been avoided",
+      "will be avoided",
+      "had avoided"
+    ],
+    "answer": 1,
+    "translation": "Operatör kontrol listesini takip etmiş olsaydı hata önlenirdi.",
+    "explanation": "Third conditional edilgen ana cümlesi would have been + V3 ile kurulur."
+  },
+  {
+    "id": 58,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The new system ___ at the moment, so some functions are unavailable.",
+    "options": [
+      "is being tested",
+      "has tested",
+      "tests",
+      "was testing"
+    ],
+    "answer": 0,
+    "translation": "Yeni sistem şu anda test ediliyor, bu nedenle bazı işlevler kullanılamıyor.",
+    "explanation": "Şu anda devam eden edilgen eylem present continuous passive ile kurulur."
+  },
+  {
+    "id": 59,
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The control unit ___ at present to identify the source of the fault.",
+    "options": [
+      "tests",
+      "is being tested",
+      "has tested",
+      "was testing"
+    ],
+    "answer": 1,
+    "translation": "Arızanın kaynağını belirlemek için kontrol ünitesi şu anda test ediliyor.",
+    "explanation": "Şu anda devam eden edilgen eylem present continuous passive ile kurulur."
+  },
+  {
+    "id": 60,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "No sooner ___ than the power went out.",
+    "options": [
+      "the test had begun",
+      "had the test begun",
+      "did the test began",
+      "the test began"
+    ],
+    "answer": 1,
+    "translation": "Test başlar başlamaz elektrik kesildi.",
+    "explanation": "No sooner cümle başında olduğunda past perfect ile devrik yapı gerekir."
+  },
+  {
+    "id": 61,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "Seldom ___ such a rapid improvement in performance.",
+    "options": [
+      "we have seen",
+      "have we seen",
+      "we saw",
+      "did seen we"
+    ],
+    "answer": 1,
+    "translation": "Performansta böylesine hızlı bir iyileşmeyi nadiren gördük.",
+    "explanation": "Seldom cümle başında kullanıldığında yardımcı fiil özneden önce gelir."
+  },
+  {
+    "id": 62,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The policy applies to all employees, ___ their department.",
+    "options": [
+      "regardless of",
+      "in case",
+      "as long as",
+      "even"
+    ],
+    "answer": 0,
+    "translation": "Politika, departmanlarından bağımsız olarak tüm çalışanlar için geçerlidir.",
+    "explanation": "Regardless of + isim, dikkate almaksızın anlamındadır."
+  },
+  {
+    "id": 63,
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The policy applies to all staff, ___ of their job title.",
+    "options": [
+      "regardless",
+      "although",
+      "whereas",
+      "unless"
+    ],
+    "answer": 0,
+    "translation": "Politika, iş unvanlarından bağımsız olarak tüm personele uygulanır.",
+    "explanation": "Regardless of, -den bağımsız olarak anlamındadır."
+  },
+  {
+    "id": 64,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "There are ___ reasons to reconsider the current arrangement.",
+    "options": [
+      "much",
+      "a great deal",
+      "several",
+      "little"
+    ],
+    "answer": 2,
+    "translation": "Mevcut düzenlemeyi yeniden değerlendirmek için birkaç neden var.",
+    "explanation": "Reasons sayılabilir çoğul isimdir; several kullanılır."
+  },
+  {
+    "id": 65,
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "Only ___ of the machines required additional maintenance.",
+    "options": [
+      "a little",
+      "a few",
+      "much",
+      "every"
+    ],
+    "answer": 1,
+    "translation": "Makinelerden yalnızca birkaçı ek bakım gerektirdi.",
+    "explanation": "Machines sayılabilir çoğul isimdir; a few kullanılır."
+  },
+  {
+    "id": 66,
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The proposed solution is both practical and ___.",
+    "options": [
+      "economy",
+      "economical",
+      "economically",
+      "economise"
+    ],
+    "answer": 1,
+    "translation": "Önerilen çözüm hem pratik hem de ekonomiktir.",
+    "explanation": "Both...and yapısında paralel sıfatlar gerekir."
+  },
+  {
+    "id": 67,
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The proposed timetable is not particularly ___.",
+    "options": [
+      "realistically",
+      "realistic",
+      "reality",
+      "realise"
+    ],
+    "answer": 1,
+    "translation": "Önerilen takvim özellikle gerçekçi değil.",
+    "explanation": "Is sonrasında yüklem sıfatı realistic gerekir."
+  },
+  {
+    "id": 68,
+    "category": "Grammar",
+    "topic": "Articles & Prepositions",
+    "prompt": "We need to comply ___ the latest safety regulations.",
+    "options": [
+      "to",
+      "with",
+      "for",
+      "at"
+    ],
+    "answer": 1,
+    "translation": "En güncel güvenlik düzenlemelerine uymamız gerekiyor.",
+    "explanation": "Comply with kalıbı kullanılır."
+  },
+  {
+    "id": 69,
+    "category": "Grammar",
+    "topic": "Articles & Prepositions",
+    "prompt": "The team succeeded ___ completing the repair before the next shift.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "answer": 1,
+    "translation": "Ekip onarımı bir sonraki vardiyadan önce tamamlamayı başardı.",
+    "explanation": "Succeed in + gerund kalıbı kullanılır."
+  },
+  {
+    "id": 70,
+    "category": "Grammar",
+    "topic": "Conjunctions",
+    "prompt": "The data was incomplete; ___, the analysis had to be repeated.",
+    "options": [
+      "nevertheless",
+      "therefore",
+      "otherwise",
+      "meanwhile"
+    ],
+    "answer": 1,
+    "translation": "Veriler eksikti; bu nedenle analiz tekrarlanmak zorunda kaldı.",
+    "explanation": "Therefore sonuç bildiren bağlaçtır."
+  },
+  {
+    "id": 71,
+    "category": "Grammar",
+    "topic": "Conjunctions",
+    "prompt": "The equipment was old; ___, it remained reliable.",
+    "options": [
+      "therefore",
+      "nevertheless",
+      "as a result",
+      "consequently"
+    ],
+    "answer": 1,
+    "translation": "Ekipman eskiydi; buna rağmen güvenilirliğini korudu.",
+    "explanation": "Nevertheless, zıtlık bildiren geçiş ifadesidir."
+  },
+  {
+    "id": 72,
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The sudden ___ of the main server affected several departments.",
+    "options": [
+      "fail",
+      "failure",
+      "failed",
+      "failing"
+    ],
+    "answer": 1,
+    "translation": "Ana sunucunun ani arızası birkaç departmanı etkiledi.",
+    "explanation": "The sonrasında isim gerekir; failure isimdir."
+  },
+  {
+    "id": 73,
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "Regular ___ of the batteries can extend their service life.",
+    "options": [
+      "maintain",
+      "maintenance",
+      "maintained",
+      "maintaining"
+    ],
+    "answer": 1,
+    "translation": "Bataryaların düzenli bakımı kullanım ömürlerini uzatabilir.",
+    "explanation": "Regular sıfatından sonra isim maintenance gelir."
+  },
+  {
+    "id": 74,
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The team conducted a detailed ___ of energy consumption.",
+    "options": [
+      "analyse",
+      "analytical",
+      "analysis",
+      "analysed"
+    ],
+    "answer": 2,
+    "translation": "Ekip enerji tüketiminin ayrıntılı bir analizini gerçekleştirdi.",
+    "explanation": "A detailed ifadesinden sonra isim analysis kullanılır."
+  },
+  {
+    "id": 75,
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The new policy is expected to ___ unnecessary delays.",
+    "options": [
+      "prevention",
+      "preventive",
+      "prevent",
+      "preventionally"
+    ],
+    "answer": 2,
+    "translation": "Yeni politikanın gereksiz gecikmeleri önlemesi bekleniyor.",
+    "explanation": "To sonrasında fiilin yalın hâli prevent kullanılır."
+  },
+  {
+    "id": 76,
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The department will ___ the maintenance schedule next quarter.",
+    "options": [
+      "revision",
+      "revise",
+      "revised",
+      "revising"
+    ],
+    "answer": 1,
+    "translation": "Departman gelecek çeyrekte bakım takvimini gözden geçirecek.",
+    "explanation": "Will sonrasında yalın fiil revise gelir."
+  },
+  {
+    "id": 77,
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The findings may ___ a need for additional training.",
+    "options": [
+      "indication",
+      "indicate",
+      "indicative",
+      "indicated"
+    ],
+    "answer": 1,
+    "translation": "Bulgular ek eğitim ihtiyacına işaret edebilir.",
+    "explanation": "May modalından sonra yalın fiil indicate kullanılır."
+  },
+  {
+    "id": 78,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The results were ___ with the initial hypothesis.",
+    "options": [
+      "consistent",
+      "temporary",
+      "reluctant",
+      "scarce"
+    ],
+    "answer": 0,
+    "translation": "Sonuçlar ilk hipotezle tutarlıydı.",
+    "explanation": "Consistent with, bir şeyle tutarlı/uyumlu anlamına gelir."
+  },
+  {
+    "id": 79,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The company needs to ___ its reliance on diesel-powered vehicles.",
+    "options": [
+      "enhance",
+      "reduce",
+      "retain",
+      "assume"
+    ],
+    "answer": 1,
+    "translation": "Şirket dizel araçlara olan bağımlılığını azaltmalı.",
+    "explanation": "Reduce, miktarı veya bağımlılığı azaltmak anlamındadır."
+  },
+  {
+    "id": 80,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The manager asked us to provide a ___ explanation supported by evidence.",
+    "options": [
+      "comprehensive",
+      "temporary",
+      "reluctant",
+      "minor"
+    ],
+    "answer": 0,
+    "translation": "Müdür kanıtlarla desteklenen kapsamlı bir açıklama sunmamızı istedi.",
+    "explanation": "Comprehensive, kapsamlı ve ayrıntılı anlamındadır."
+  },
+  {
+    "id": 81,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The maintenance team must ___ the cause of the recurring fault.",
+    "options": [
+      "determine",
+      "preserve",
+      "assume",
+      "withdraw"
+    ],
+    "answer": 0,
+    "translation": "Bakım ekibi tekrarlayan arızanın nedenini belirlemeli.",
+    "explanation": "Determine, belirlemek veya tespit etmek anlamına gelir."
+  },
+  {
+    "id": 82,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The proposed changes are likely to have a significant ___ on productivity.",
+    "options": [
+      "affect",
+      "effect",
+      "effective",
+      "effectively"
+    ],
+    "answer": 1,
+    "translation": "Önerilen değişikliklerin verimlilik üzerinde önemli bir etkisi olması muhtemel.",
+    "explanation": "A significant sonrasında isim effect gerekir."
+  },
+  {
+    "id": 83,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The supplier failed to ___ the agreed delivery date.",
+    "options": [
+      "meet",
+      "reach to",
+      "arrive",
+      "achieve to"
+    ],
+    "answer": 0,
+    "translation": "Tedarikçi üzerinde anlaşılmış teslim tarihine uyamadı.",
+    "explanation": "Meet a deadline/date yerleşik kullanımdır."
+  },
+  {
+    "id": 84,
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "We need to ___ the figures before presenting them to the director.",
+    "options": [
+      "look after",
+      "look into",
+      "look up to",
+      "look down"
+    ],
+    "answer": 1,
+    "translation": "Rakamları direktöre sunmadan önce incelememiz gerekiyor.",
+    "explanation": "Look into, bir konuyu araştırmak veya incelemek demektir."
+  },
+  {
+    "id": 85,
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The project was ___ because the necessary parts were unavailable.",
+    "options": [
+      "called off",
+      "taken after",
+      "put up",
+      "turned into"
+    ],
+    "answer": 0,
+    "translation": "Gerekli parçalar bulunamadığı için proje iptal edildi.",
+    "explanation": "Call off, planlanmış bir etkinliği iptal etmek demektir."
+  },
+  {
+    "id": 86,
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The new software will ___ the need for manual data entry.",
+    "options": [
+      "do away with",
+      "come across",
+      "get over",
+      "take after"
+    ],
+    "answer": 0,
+    "translation": "Yeni yazılım manuel veri girişi ihtiyacını ortadan kaldıracak.",
+    "explanation": "Do away with, ortadan kaldırmak anlamına gelir."
+  },
+  {
+    "id": 87,
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "We have ___ an unexpected issue during the installation.",
+    "options": [
+      "come across",
+      "put off",
+      "taken over",
+      "run out"
+    ],
+    "answer": 0,
+    "translation": "Kurulum sırasında beklenmedik bir sorunla karşılaştık.",
+    "explanation": "Come across, tesadüfen karşılaşmak anlamındadır."
+  },
+  {
+    "id": 88,
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "After several unsuccessful attempts, the team decided to ___ and try a different approach.",
+    "options": [
+      "break the ice",
+      "think outside the box",
+      "call it a day",
+      "keep an eye"
+    ],
+    "answer": 2,
+    "translation": "Birkaç başarısız denemeden sonra ekip işi bugünlük bırakıp farklı bir yaklaşım denemeye karar verdi.",
+    "explanation": "Call it a day, işi/günü bitirmek anlamına gelir."
+  },
+  {
+    "id": 89,
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "We are all ___ the same page regarding the project objectives.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "answer": 1,
+    "translation": "Proje hedefleri konusunda hepimiz aynı fikirdeyiz.",
+    "explanation": "Be on the same page, aynı anlayışta olmak demektir."
+  },
+  {
+    "id": 90,
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "The unexpected repair costs were a ___ in the budget.",
+    "options": [
+      "piece of cake",
+      "drop in the ocean",
+      "blessing in disguise",
+      "pain in the neck"
+    ],
+    "answer": 3,
+    "translation": "Beklenmedik tamir maliyetleri bütçede can sıkıcı bir sorun oldu.",
+    "explanation": "A pain in the neck, can sıkıcı bir şey/kişi anlamına gelir."
+  },
+  {
+    "id": 91,
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "A lack of proper ___ can lead to repeated operational problems.",
+    "options": [
+      "communicate",
+      "communication",
+      "communicative",
+      "communicated"
+    ],
+    "answer": 1,
+    "translation": "Uygun iletişim eksikliği tekrarlayan operasyonel sorunlara yol açabilir.",
+    "explanation": "Proper sıfatından sonra isim communication gerekir."
+  },
+  {
+    "id": 92,
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The ___ of the new equipment was completed ahead of schedule.",
+    "options": [
+      "install",
+      "installation",
+      "installed",
+      "installing"
+    ],
+    "answer": 1,
+    "translation": "Yeni ekipmanın kurulumu planlanandan önce tamamlandı.",
+    "explanation": "The ... of yapısında isim installation gerekir."
+  },
+  {
+    "id": 93,
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "A clear ___ of responsibilities helps prevent confusion.",
+    "options": [
+      "allocate",
+      "allocation",
+      "allocated",
+      "allocating"
+    ],
+    "answer": 1,
+    "translation": "Sorumlulukların net bir şekilde dağıtılması karışıklığı önlemeye yardımcı olur.",
+    "explanation": "Clear sıfatından sonra isim allocation kullanılır."
+  },
+  {
+    "id": 94,
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The company reported a steady ___ in electricity costs.",
+    "options": [
+      "decline",
+      "declining",
+      "declined",
+      "declineable"
+    ],
+    "answer": 0,
+    "translation": "Şirket elektrik maliyetlerinde istikrarlı bir düşüş bildirdi.",
+    "explanation": "A steady ifadesinden sonra isim decline gelir."
+  },
+  {
+    "id": 95,
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The audit will ___ whether the procedure meets the required standards.",
+    "options": [
+      "assessment",
+      "assess",
+      "assessed",
+      "assessing"
+    ],
+    "answer": 1,
+    "translation": "Denetim, prosedürün gerekli standartları karşılayıp karşılamadığını değerlendirecek.",
+    "explanation": "Will sonrasında yalın fiil assess kullanılır."
+  },
+  {
+    "id": 96,
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The team managed to ___ the problem without replacing the component.",
+    "options": [
+      "resolution",
+      "resolve",
+      "resolved",
+      "resolving"
+    ],
+    "answer": 1,
+    "translation": "Ekip parçayı değiştirmeden sorunu çözmeyi başardı.",
+    "explanation": "Manage to sonrasında yalın fiil resolve gelir."
+  },
+  {
+    "id": 97,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The benefits of the investment should ___ the initial cost.",
+    "options": [
+      "outweigh",
+      "overlook",
+      "undertake",
+      "undergo"
+    ],
+    "answer": 0,
+    "translation": "Yatırımın faydaları başlangıç maliyetinden ağır basmalı.",
+    "explanation": "Outweigh, bir şeyden daha önemli/ağır basmak demektir."
+  },
+  {
+    "id": 98,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The figures are not entirely ___ because two sources report different totals.",
+    "options": [
+      "reliable",
+      "relevant",
+      "available",
+      "suitable"
+    ],
+    "answer": 0,
+    "translation": "İki kaynak farklı toplamlar bildirdiği için rakamlar tamamen güvenilir değil.",
+    "explanation": "Reliable, güvenilir anlamına gelir."
+  },
+  {
+    "id": 99,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The department introduced measures to ___ the risk of equipment failure.",
+    "options": [
+      "mitigate",
+      "allocate",
+      "derive",
+      "withdraw"
+    ],
+    "answer": 0,
+    "translation": "Departman ekipman arızası riskini azaltmak için önlemler aldı.",
+    "explanation": "Mitigate, olumsuz etkiyi veya riski hafifletmek/azaltmak demektir."
+  },
+  {
+    "id": 100,
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The proposal was rejected due to a lack of ___ evidence.",
+    "options": [
+      "compelling",
+      "ordinary",
+      "reluctant",
+      "casual"
+    ],
+    "answer": 0,
+    "translation": "Teklif ikna edici kanıt eksikliği nedeniyle reddedildi.",
+    "explanation": "Compelling evidence, güçlü ve ikna edici kanıt demektir."
+  },
+  {
+    "id": 101,
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The company plans to ___ a new monitoring system next year.",
+    "options": [
+      "roll out",
+      "break down",
+      "give in",
+      "come up"
+    ],
+    "answer": 0,
+    "translation": "Şirket gelecek yıl yeni bir izleme sistemini devreye almayı planlıyor.",
+    "explanation": "Roll out, yeni bir sistemi veya ürünü kullanıma sunmak demektir."
+  },
+  {
+    "id": 102,
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The technician was able to ___ the fault to a loose connection.",
+    "options": [
+      "trace back",
+      "put away",
+      "take off",
+      "bring about"
+    ],
+    "answer": 0,
+    "translation": "Teknisyen arızanın kaynağını gevşek bir bağlantıya kadar izleyebildi.",
+    "explanation": "Trace back, kaynağına kadar takip etmek anlamındadır."
+  },
+  {
+    "id": 103,
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "The deadline is tight, but we should be able to ___ if everyone cooperates.",
+    "options": [
+      "make ends meet",
+      "get the job done",
+      "miss the boat",
+      "spill the beans"
+    ],
+    "answer": 1,
+    "translation": "Son teslim tarihi yakın ancak herkes iş birliği yaparsa işi tamamlayabiliriz.",
+    "explanation": "Get the job done, işi tamamlamak demektir."
+  },
+  {
+    "id": 104,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "What is the central argument of the passage?",
+    "options": [
+      "Electric equipment should replace every machine immediately",
+      "Airport electrification requires equipment, infrastructure, monitoring and training",
+      "Diesel equipment is always cheaper",
+      "Charging infrastructure is the only relevant issue"
+    ],
+    "answer": 1,
+    "translation": "Metnin temel savı nedir?",
+    "explanation": "Havalimanlarında elektrifikasyon; ekipman, altyapı, izleme ve eğitimin birlikte ele alınmasını gerektirir.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 105,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "Which benefit of electric ground support equipment is explicitly mentioned?",
+    "options": [
+      "Lower local emissions and potentially lower energy costs",
+      "No need for maintenance",
+      "Unlimited operating range",
+      "No investment in infrastructure"
+    ],
+    "answer": 0,
+    "translation": "Elektrikli yer hizmetleri ekipmanının hangi faydası açıkça belirtilmiştir?",
+    "explanation": "Metin yerel emisyonların ve birçok durumda enerji maliyetlerinin azalabileceğini söylüyor.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 106,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "Why does the author say the transition is not simply a replacement exercise?",
+    "options": [
+      "Because electric vehicles cannot operate at airports",
+      "Because charging, batteries, maintenance skills and electricity sources also matter",
+      "Because operators do not need training",
+      "Because diesel machines have no environmental impact"
+    ],
+    "answer": 1,
+    "translation": "Yazar dönüşümün neden yalnızca araç değiştirmek olmadığını söylüyor?",
+    "explanation": "Şarj altyapısı, batarya performansı, bakım becerileri ve elektriğin kaynağı da dikkate alınmalıdır.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 107,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "What is the role of pilot projects according to the passage?",
+    "options": [
+      "To avoid measuring energy use",
+      "To reveal operational limitations before large-scale conversion",
+      "To eliminate staff training",
+      "To replace all maintenance procedures"
+    ],
+    "answer": 1,
+    "translation": "Pilot projelerin metinde belirtilen rolü nedir?",
+    "explanation": "Pilot projeler, büyük ölçekli dönüşümden önce operasyonel sınırlamaları ortaya çıkarır.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 108,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "Which combination best reflects the author’s recommendation?",
+    "options": [
+      "Equipment investment alone",
+      "Equipment investment, energy monitoring and staff training",
+      "Only lower purchase prices",
+      "Only changing the electricity supplier"
+    ],
+    "answer": 1,
+    "translation": "Yazarın önerisini en iyi hangi birleşim yansıtır?",
+    "explanation": "Başarılı program ekipman yatırımı, enerji izleme ve personel eğitimini birleştirir.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 109,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "What does “increasing pressure” imply in the opening sentence?",
+    "options": [
+      "Airports face growing expectations to act",
+      "Airports are reducing their operations",
+      "There is less public interest",
+      "Environmental targets have disappeared"
+    ],
+    "answer": 0,
+    "translation": "İlk cümledeki “increasing pressure” neyi ima eder?",
+    "explanation": "Havalimanlarının çevresel etkilerini azaltmaları yönündeki beklenti giderek artmaktadır.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 110,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "Which statement is NOT supported by the passage?",
+    "options": [
+      "Electric equipment may lower energy costs",
+      "Charging infrastructure needs consideration",
+      "Pilot projects can identify limitations",
+      "Switching vehicles automatically solves every operational challenge"
+    ],
+    "answer": 3,
+    "translation": "Aşağıdaki ifadelerden hangisi metin tarafından desteklenmiyor?",
+    "explanation": "Metin tek başına araç değişiminin yeterli olmadığını özellikle vurgular.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 111,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "What can be inferred about a large fleet conversion?",
+    "options": [
+      "It should be planned using lessons from smaller trials",
+      "It requires no operational assessment",
+      "It should happen before charging is considered",
+      "It makes energy monitoring unnecessary"
+    ],
+    "answer": 0,
+    "translation": "Büyük filo dönüşümü hakkında hangi çıkarım yapılabilir?",
+    "explanation": "Pilot uygulamalardan öğrenilenlerin büyük dönüşüm planına aktarılması mantıklıdır.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 112,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "Which title best captures the passage?",
+    "options": [
+      "The End of Airport Maintenance",
+      "Planning a Successful Airport Ground-Equipment Transition",
+      "Why Batteries Should Be Avoided",
+      "A History of Airport Terminals"
+    ],
+    "answer": 1,
+    "translation": "Metne en uygun başlık hangisidir?",
+    "explanation": "Metin, yer hizmetleri ekipmanlarında başarılı bir enerji dönüşümünün nasıl planlanacağını anlatır.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 113,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "The word “limitations” is closest in meaning to ___.",
+    "options": [
+      "advantages",
+      "restrictions",
+      "investments",
+      "emissions"
+    ],
+    "answer": 1,
+    "translation": "Limitations kelimesinin en yakın anlamı hangisidir?",
+    "explanation": "Limitations, sınırlamalar/kısıtlar anlamına gelir.",
+    "passage": "Airports are under increasing pressure to reduce their environmental impact while maintaining reliable operations. Ground support equipment is an important part of this challenge. Electric vehicles can reduce local emissions and, in many cases, lower energy costs. However, the transition is not simply a matter of replacing diesel machines with electric ones. Operators must consider charging infrastructure, battery performance, maintenance skills and the source of electricity. A successful programme therefore combines investment in equipment with careful energy monitoring and staff training. Pilot projects are particularly useful because they reveal operational limitations before a large fleet is converted."
+  },
+  {
+    "id": 114,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "What is the main purpose of preventive maintenance?",
+    "options": [
+      "To increase unexpected failures",
+      "To reduce the likelihood of unexpected equipment failure",
+      "To remove the need for technicians",
+      "To replace all equipment annually"
+    ],
+    "answer": 1,
+    "translation": "Önleyici bakımın temel amacı nedir?",
+    "explanation": "Önleyici bakım beklenmedik ekipman arızası olasılığını azaltmayı hedefler.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 115,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "What were traditional maintenance schedules mainly based on?",
+    "options": [
+      "Weather forecasts and staff preferences",
+      "Operating hours or calendar intervals",
+      "Online customer reviews",
+      "Purchase price"
+    ],
+    "answer": 1,
+    "translation": "Geleneksel bakım takvimleri temel olarak neye dayanıyordu?",
+    "explanation": "Metin çalışma saatleri veya takvim aralıklarını belirtir.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 116,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "Which is an example of condition-monitoring data?",
+    "options": [
+      "Employee birthdays",
+      "Temperature and vibration",
+      "Marketing expenditure",
+      "Customer satisfaction"
+    ],
+    "answer": 1,
+    "translation": "Durum izleme verisine hangi örnek verilebilir?",
+    "explanation": "Metinde sıcaklık, titreşim ve batarya durumu örnek gösterilir.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 117,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "How can condition monitoring help maintenance teams?",
+    "options": [
+      "By identifying early signs of deterioration",
+      "By guaranteeing that no fault will occur",
+      "By removing the need for accurate measurements",
+      "By replacing professional judgement"
+    ],
+    "answer": 0,
+    "translation": "Durum izleme bakım ekiplerine nasıl yardımcı olabilir?",
+    "explanation": "Erken bozulma işaretlerini fark ederek arıza oluşmadan müdahaleye imkân sağlayabilir.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 118,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "Why is data alone insufficient?",
+    "options": [
+      "It is always inaccurate",
+      "It must be understood and followed by appropriate action",
+      "Technicians should ignore it",
+      "Managers cannot use measurements"
+    ],
+    "answer": 1,
+    "translation": "Veri tek başına neden yeterli değildir?",
+    "explanation": "Ölçümler doğru olmalı, teknisyenler göstergeleri anlamalı ve uyarılar eyleme dönüşmelidir.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 119,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "What does the author recommend combining?",
+    "options": [
+      "Reliable data and professional judgement",
+      "Old schedules and guesswork",
+      "Alerts and inaction",
+      "Repairs and marketing"
+    ],
+    "answer": 0,
+    "translation": "Yazar neyin birleştirilmesini öneriyor?",
+    "explanation": "En etkili sistemler güvenilir veri ile profesyonel değerlendirmeyi birleştirir.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 120,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "Which statement is supported by the passage?",
+    "options": [
+      "Condition monitoring can help prevent downtime",
+      "Calendar-based maintenance is always useless",
+      "Data automatically makes decisions",
+      "Technicians do not need training"
+    ],
+    "answer": 0,
+    "translation": "Hangi ifade metin tarafından desteklenmektedir?",
+    "explanation": "Erken bozulma tespiti, arızanın duruşa neden olmasından önce müdahaleyi mümkün kılabilir.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 121,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "What can be inferred about alerts?",
+    "options": [
+      "Every alert should be ignored",
+      "An alert is valuable only if it leads to suitable action",
+      "Alerts always identify the exact repair",
+      "Alerts remove the need for maintenance planning"
+    ],
+    "answer": 1,
+    "translation": "Uyarılar hakkında hangi çıkarım yapılabilir?",
+    "explanation": "Uyarının değeri, uygun bir aksiyona dönüşmesine bağlıdır.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 122,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "Which title best summarises the passage?",
+    "options": [
+      "Maintenance Without Measurements",
+      "Using Data Wisely in Preventive Maintenance",
+      "Why Equipment Always Fails",
+      "The Cost of Buying New Machines"
+    ],
+    "answer": 1,
+    "translation": "Metne en uygun başlık hangisidir?",
+    "explanation": "Metin, önleyici bakımda verinin doğru ve profesyonel biçimde kullanılmasını açıklar.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 123,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "The word “deterioration” is closest in meaning to ___.",
+    "options": [
+      "improvement",
+      "gradual decline",
+      "replacement",
+      "approval"
+    ],
+    "answer": 1,
+    "translation": "Deterioration kelimesinin en yakın anlamı hangisidir?",
+    "explanation": "Deterioration, zamanla kötüleşme/bozulma anlamına gelir.",
+    "passage": "Preventive maintenance is designed to reduce the likelihood of unexpected equipment failure. Traditionally, maintenance schedules have been based mainly on operating hours or calendar intervals. More recently, organisations have begun to use condition-monitoring data, such as temperature, vibration and battery status, to identify early signs of deterioration. This approach can help teams intervene before a fault causes downtime. Nevertheless, data alone does not guarantee better decisions. Measurements must be accurate, technicians need to understand what the indicators mean, and managers must ensure that alerts lead to appropriate action. The most effective systems combine reliable data with professional judgement."
+  },
+  {
+    "id": 124,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "What problem can communication failures create?",
+    "options": [
+      "Delays despite employees having technical skills",
+      "Automatic improvements in safety",
+      "Lower need for coordination",
+      "More accurate instructions"
+    ],
+    "answer": 0,
+    "translation": "İletişim hataları hangi soruna yol açabilir?",
+    "explanation": "Teknik beceriler yeterli olsa bile iletişim hataları gecikmelere neden olabilir.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 125,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "Which issue is mentioned as a possible source of misunderstanding?",
+    "options": [
+      "Responsibilities may overlap",
+      "All employees use identical shifts",
+      "Procedures are always discussed",
+      "Feedback is never requested"
+    ],
+    "answer": 0,
+    "translation": "Yanlış anlaşılmanın olası kaynağı olarak ne belirtiliyor?",
+    "explanation": "Metin sorumlulukların çakışmasını örnek veriyor.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 126,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "How should written procedures be viewed?",
+    "options": [
+      "As a common reference, not a substitute for discussion",
+      "As unnecessary documents",
+      "As a replacement for all briefings",
+      "As confidential personal notes"
+    ],
+    "answer": 0,
+    "translation": "Yazılı prosedürler nasıl görülmelidir?",
+    "explanation": "Ortak referans sağlarlar ancak görüşmenin yerini almamalıdırlar.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 127,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "What is one benefit of short briefings?",
+    "options": [
+      "Employees can ask questions and raise practical difficulties",
+      "They eliminate all written procedures",
+      "They prevent employees from giving feedback",
+      "They reduce the need to share changes"
+    ],
+    "answer": 0,
+    "translation": "Kısa bilgilendirmelerin faydalarından biri nedir?",
+    "explanation": "Kısa toplantılar çalışanların soru sormasına ve pratik zorlukları belirtmesine imkân verir.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 128,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "What kind of organisational culture does the author support?",
+    "options": [
+      "One where staff feel comfortable reporting problems",
+      "One where errors are hidden",
+      "One where only managers can speak",
+      "One where feedback is discouraged"
+    ],
+    "answer": 0,
+    "translation": "Yazar nasıl bir kurum kültürünü destekliyor?",
+    "explanation": "Çalışanların sorunları rahatça bildirebildiği bir kültür öneriliyor.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 129,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "What is the relationship between procedures and discussion?",
+    "options": [
+      "They complement each other",
+      "Discussion makes procedures irrelevant",
+      "Procedures should replace all discussion",
+      "They have no connection"
+    ],
+    "answer": 0,
+    "translation": "Prosedürler ve görüşme arasındaki ilişki nedir?",
+    "explanation": "Yazılı prosedürler ve kısa bilgilendirmeler birbirini tamamlar.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 130,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "Which outcome is associated with clear communication?",
+    "options": [
+      "Small issues are more likely to be resolved early",
+      "Every operational disruption becomes unavoidable",
+      "Employees need less technical knowledge",
+      "Responsibilities become less clear"
+    ],
+    "answer": 0,
+    "translation": "Açık iletişim hangi sonuçla ilişkilendiriliyor?",
+    "explanation": "Geri bildirim ciddiye alındığında küçük sorunlar büyümeden çözülebilir.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 131,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "What can be inferred about shift changes?",
+    "options": [
+      "Important information should reach every shift",
+      "Only day shifts need updates",
+      "Written procedures are never useful",
+      "Shift teams should work independently"
+    ],
+    "answer": 0,
+    "translation": "Vardiya değişimleri hakkında hangi çıkarım yapılabilir?",
+    "explanation": "Önemli değişikliklerin tüm vardiyalara aktarılması gerekir.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 132,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "Which title is most appropriate?",
+    "options": [
+      "Communication as a Foundation for Reliable Operations",
+      "The Decline of Technical Skills",
+      "Why Meetings Should Be Avoided",
+      "A Guide to Individual Work"
+    ],
+    "answer": 0,
+    "translation": "Metne en uygun başlık hangisidir?",
+    "explanation": "Metnin odağı, operasyonel işlerde açık iletişimin önemidir.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 133,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "The phrase “taken seriously” is closest in meaning to ___.",
+    "options": [
+      "ignored",
+      "treated as important",
+      "delayed",
+      "questioned repeatedly"
+    ],
+    "answer": 1,
+    "translation": "Taken seriously ifadesinin anlamı hangisidir?",
+    "explanation": "Bir şeyi ciddiye almak, önemli kabul edip gereğini yapmak demektir.",
+    "passage": "In complex workplaces, communication failures can create delays even when employees have the technical skills required to do their jobs. Instructions may be misunderstood, responsibilities may overlap, or important changes may not reach every shift. Written procedures provide a common reference, but they should not be treated as a substitute for discussion. Short briefings allow employees to ask questions and identify practical difficulties. Organisations should also create a culture in which staff feel comfortable reporting problems. When communication is clear and feedback is taken seriously, small issues are more likely to be resolved before they develop into major disruptions."
+  },
+  {
+    "id": 134,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "Why can a single performance indicator be misleading?",
+    "options": [
+      "It may not explain the context behind a result",
+      "It always contains too much detail",
+      "It cannot be measured",
+      "It is unrelated to operations"
+    ],
+    "answer": 0,
+    "translation": "Tek bir performans göstergesi neden yanıltıcı olabilir?",
+    "explanation": "Örneğin yakıt tüketimi düşüşü daha az çalışma saatinden kaynaklanabilir; verimlilik artışını tek başına kanıtlamaz.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 135,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "What could a reduction in fuel consumption actually reflect?",
+    "options": [
+      "Fewer operating hours rather than improved efficiency",
+      "A guaranteed increase in productivity",
+      "More equipment availability",
+      "A higher number of flights"
+    ],
+    "answer": 0,
+    "translation": "Yakıt tüketimindeki düşüş gerçekte neyi yansıtıyor olabilir?",
+    "explanation": "Metin bunun daha az çalışma saatinden kaynaklanabileceğini örnek verir.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 136,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "Which measures should be compared to understand performance?",
+    "options": [
+      "Activity, energy use, availability and cost per operation",
+      "Only purchase prices",
+      "Only staff attendance",
+      "Only one month’s fuel total"
+    ],
+    "answer": 0,
+    "translation": "Performansı anlamak için hangi ölçüler karşılaştırılmalıdır?",
+    "explanation": "Metin faaliyet düzeyi, enerji, ekipman kullanılabilirliği ve operasyon başına maliyeti sayar.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 137,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "Why should managers examine trends over time?",
+    "options": [
+      "To avoid reacting to one unusual result",
+      "To ignore recent performance",
+      "To remove the need for consistent definitions",
+      "To make every result identical"
+    ],
+    "answer": 0,
+    "translation": "Yöneticiler neden zaman içindeki eğilimleri incelemelidir?",
+    "explanation": "Tek bir sıra dışı sonuca aşırı tepki vermemek için eğilimlere bakılmalıdır.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 138,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "What does good analysis require?",
+    "options": [
+      "Context, consistent definitions and awareness of data limitations",
+      "A single number without explanation",
+      "Assumptions instead of evidence",
+      "Different definitions every month"
+    ],
+    "answer": 0,
+    "translation": "İyi analiz ne gerektirir?",
+    "explanation": "Metin bağlam, tutarlı tanımlar ve veri sınırlamalarının farkında olmayı vurgular.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 139,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "Which statement best captures the author’s position?",
+    "options": [
+      "Indicators are useful but must be interpreted carefully",
+      "Indicators should never be used",
+      "One indicator always explains everything",
+      "Managers should avoid comparing data"
+    ],
+    "answer": 0,
+    "translation": "Yazarın yaklaşımını en iyi hangi ifade açıklar?",
+    "explanation": "Göstergeler yararlıdır ancak dikkatli ve bağlam içinde yorumlanmalıdır.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 140,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "What is the main weakness of reacting to one unusual result?",
+    "options": [
+      "It may lead to an inaccurate understanding of performance",
+      "It always improves decision-making",
+      "It provides too much context",
+      "It guarantees long-term savings"
+    ],
+    "answer": 0,
+    "translation": "Tek bir sıra dışı sonuca tepki vermenin temel sakıncası nedir?",
+    "explanation": "Tekil sonuçlar bağlamdan koparıldığında performans yanlış yorumlanabilir.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 141,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "What can be inferred about cost per operation?",
+    "options": [
+      "It can help relate expenditure to operational activity",
+      "It is identical to total expenditure",
+      "It makes activity levels irrelevant",
+      "It cannot be compared over time"
+    ],
+    "answer": 0,
+    "translation": "Operasyon başına maliyet hakkında ne çıkarılabilir?",
+    "explanation": "Maliyeti faaliyet düzeyiyle ilişkilendirmeye yardımcı olur.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 142,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "Which title best reflects the passage?",
+    "options": [
+      "Looking Beyond Single Performance Indicators",
+      "How to Eliminate All Costs",
+      "Why Data Should Be Ignored",
+      "The History of Financial Reporting"
+    ],
+    "answer": 0,
+    "translation": "Metne en uygun başlık hangisidir?",
+    "explanation": "Metin tek bir gösterge yerine ilişkili ölçülerin birlikte değerlendirilmesini savunur.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 143,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "What example does the author give to show that a single indicator can be misleading?",
+    "options": [
+      "Lower fuel use caused by fewer operating hours",
+      "Higher staff satisfaction after training",
+      "A rise in the purchase price",
+      "A change in the weather"
+    ],
+    "answer": 0,
+    "translation": "Yazar tek bir göstergenin yanıltıcı olabileceğini göstermek için hangi örneği veriyor?",
+    "explanation": "Yakıt tüketimindeki azalma, verimlilik artışı yerine daha az çalışma saatinden kaynaklanabilir.",
+    "passage": "Performance indicators are useful because they turn large amounts of operational information into measures that managers can monitor. Yet a single indicator rarely tells the whole story. For example, a reduction in fuel consumption may appear positive, but it could result from fewer operating hours rather than improved efficiency. To understand performance, managers should compare related measures, such as activity levels, energy use, equipment availability and cost per operation. They should also examine trends over time instead of reacting to one unusual result. Good analysis requires context, consistent definitions and an awareness of the limitations of the data."
+  },
+  {
+    "id": 144,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "What is the main criticism of treating errors only as individual failure?",
+    "options": [
+      "It can prevent organisations from learning",
+      "It improves investigations",
+      "It always identifies root causes",
+      "It removes the need for procedures"
+    ],
+    "answer": 0,
+    "translation": "Hataları yalnızca bireysel başarısızlık olarak görmenin temel sakıncası nedir?",
+    "explanation": "Bu yaklaşım kurumların hatalardan öğrenmesini engelleyebilir.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future."
+  },
+  {
+    "id": 145,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "What should an investigation examine?",
+    "options": [
+      "The conditions in which the error occurred",
+      "Only the employee’s job title",
+      "The company’s advertising strategy",
+      "Unrelated financial targets"
+    ],
+    "answer": 0,
+    "translation": "Bir inceleme neyi değerlendirmelidir?",
+    "explanation": "Hatanın meydana geldiği koşullar incelenmelidir.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future."
+  },
+  {
+    "id": 146,
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "Which question is suggested as part of an investigation?",
+    "options": [
+      "Was the procedure unclear?",
+      "Was the office recently painted?",
+      "Did sales increase?",
+      "Was the employee on holiday last year?"
+    ],
+    "answer": 0,
+    "translation": "İncelemede hangi sorunun sorulması öneriliyor?",
+    "explanation": "Prosedürün açık olup olmadığı metindeki örnek sorulardan biridir.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future."
+  },
+  {
+    "id": 147,
+    "category": "Reading",
+    "topic": "Synthesis",
+    "prompt": "Does the author claim that individuals have no responsibility?",
+    "options": [
+      "Yes, completely",
+      "No; personal decisions still matter",
+      "Only managers are responsible",
+      "Responsibility is irrelevant"
+    ],
+    "answer": 1,
+    "translation": "Yazar bireylerin hiç sorumluluğu olmadığını mı savunuyor?",
+    "explanation": "Hayır. Bireysel kararların da önemli olduğunu, ancak çalışma ortamının da etkili olduğunu söylüyor.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future."
+  },
+  {
+    "id": 148,
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "What does a constructive approach focus on?",
+    "options": [
+      "Understanding causes and identifying improvements",
+      "Finding someone to blame",
+      "Hiding operational problems",
+      "Avoiding future investigations"
+    ],
+    "answer": 0,
+    "translation": "Yapıcı yaklaşım neye odaklanır?",
+    "explanation": "Suçlama yerine nedenleri anlamaya ve iyileştirme belirlemeye odaklanır.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future."
+  },
+  {
+    "id": 149,
+    "category": "Reading",
+    "topic": "Main Idea",
+    "prompt": "Which factors shape performance according to the passage?",
+    "options": [
+      "Personal decisions and the working environment",
+      "Only individual motivation",
+      "Only equipment age",
+      "Only financial incentives"
+    ],
+    "answer": 0,
+    "translation": "Metne göre performansı hangi faktörler şekillendirir?",
+    "explanation": "Hem kişisel kararlar hem de çalışma ortamı performansı etkiler.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future."
+  },
+  {
+    "id": 150,
+    "category": "Reading",
+    "topic": "Detail",
+    "prompt": "What is likely to happen when investigations focus on causes rather than blame?",
+    "options": [
+      "Practical improvements can be identified",
+      "Errors become impossible",
+      "Employees stop reporting problems",
+      "Training becomes unnecessary"
+    ],
+    "answer": 0,
+    "translation": "İncelemeler suçlama yerine nedenlere odaklanırsa ne olması beklenir?",
+    "explanation": "Kurumlar uygulanabilir iyileştirmeler belirleyebilir ve benzer olayları azaltabilir.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future."
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The files were misplaced, but nobody admitted that it was ___.",
+    "options": [
+      "their",
+      "theirs",
+      "them",
+      "they"
+    ],
+    "answer": 1,
+    "translation": "Dosyalar yanlış yere konmuştu ancak kimse bunun kendisinin olduğunu kabul etmedi.",
+    "explanation": "Was it theirs? iyelik zamiri theirs kullanılır; ardından isim gelmez.",
+    "id": 151
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The two technicians helped ___ to finish the inspection on time.",
+    "options": [
+      "each other",
+      "themselves",
+      "one",
+      "another’s"
+    ],
+    "answer": 0,
+    "translation": "İki teknisyen kontrolü zamanında bitirmek için birbirine yardım etti.",
+    "explanation": "İki kişi arasındaki karşılıklı eylem için each other kullanılır.",
+    "id": 152
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The person ___ we interviewed had extensive experience.",
+    "options": [
+      "which",
+      "whose",
+      "whom",
+      "where"
+    ],
+    "answer": 2,
+    "translation": "Görüştüğümüz kişinin kapsamlı deneyimi vardı.",
+    "explanation": "Interview fiilinin nesnesi olan kişi için whom kullanılır.",
+    "id": 153
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The machine stopped by ___ after detecting an abnormal temperature.",
+    "options": [
+      "it",
+      "its",
+      "itself",
+      "it’s"
+    ],
+    "answer": 2,
+    "translation": "Makine anormal sıcaklık tespit ettikten sonra kendiliğinden durdu.",
+    "explanation": "Özne ve nesne aynı olduğunda dönüşlülük zamiri itself kullanılır.",
+    "id": 154
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "Neither of the proposals achieved ___ objective.",
+    "options": [
+      "their",
+      "its",
+      "them",
+      "theirs"
+    ],
+    "answer": 1,
+    "translation": "Tekliflerin hiçbiri kendi hedefine ulaşmadı.",
+    "explanation": "Neither tekil kabul edildiği için its kullanılır.",
+    "id": 155
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The employees, many of ___ work night shifts, requested a new schedule.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "answer": 1,
+    "translation": "Birçoğu gece vardiyasında çalışan personel yeni bir takvim talep etti.",
+    "explanation": "Many of whom yapısı insanlardan söz eden açıklayıcı relative clause yapısıdır.",
+    "id": 156
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The company changed ___ name after the merger.",
+    "options": [
+      "it",
+      "its",
+      "itself",
+      "it’s"
+    ],
+    "answer": 1,
+    "translation": "Şirket birleşmeden sonra adını değiştirdi.",
+    "explanation": "İyelik sıfatı its, kendisinden sonra name gibi bir isimle kullanılır.",
+    "id": 157
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "I do not think ___ of these explanations is convincing.",
+    "options": [
+      "some",
+      "any",
+      "either",
+      "both"
+    ],
+    "answer": 2,
+    "translation": "Bu açıklamalardan herhangi birinin ikna edici olduğunu düşünmüyorum.",
+    "explanation": "İki açıklama arasından herhangi biri için either kullanılır.",
+    "id": 158
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The responsibility is not yours; it is ___.",
+    "options": [
+      "our",
+      "us",
+      "ours",
+      "we"
+    ],
+    "answer": 2,
+    "translation": "Sorumluluk senin değil; bizim.",
+    "explanation": "İsim olmadan iyelik bildiren bağımsız zamir ours kullanılır.",
+    "id": 159
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The company offered the role to Deniz and ___.",
+    "options": [
+      "I",
+      "my",
+      "me",
+      "mine"
+    ],
+    "answer": 2,
+    "translation": "Şirket pozisyonu Deniz’e ve bana teklif etti.",
+    "explanation": "To edatından sonra nesne zamiri me gelir.",
+    "id": 160
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The manager insisted that the report ___ before noon.",
+    "options": [
+      "is submitted",
+      "be submitted",
+      "was submitting",
+      "submits"
+    ],
+    "answer": 1,
+    "translation": "Müdür raporun öğleden önce sunulmasında ısrar etti.",
+    "explanation": "Insist that sonrası resmi İngilizcede subjunctive yalın fiil kullanılır; edilgen biçim be submitted.",
+    "id": 161
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "I regret ___ you that your application was unsuccessful.",
+    "options": [
+      "inform",
+      "to inform",
+      "informing",
+      "informed"
+    ],
+    "answer": 1,
+    "translation": "Başvurunuzun başarısız olduğunu size bildirmekten üzgünüm.",
+    "explanation": "Regret to do, üzücü bir şeyi şimdi bildirmek anlamındadır.",
+    "id": 162
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "I regret ___ the warning before the equipment failed.",
+    "options": [
+      "ignore",
+      "to ignore",
+      "having ignored",
+      "to have ignore"
+    ],
+    "answer": 2,
+    "translation": "Ekipman arızalanmadan önce uyarıyı görmezden geldiğim için pişmanım.",
+    "explanation": "Geçmişte yapılmış bir eylemden pişmanlık için regret + having + V3 kullanılır.",
+    "id": 163
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The contract is due ___ at the end of this month.",
+    "options": [
+      "renew",
+      "renewing",
+      "to be renewed",
+      "to have renew"
+    ],
+    "answer": 2,
+    "translation": "Sözleşmenin bu ayın sonunda yenilenmesi gerekiyor.",
+    "explanation": "Sözleşme yenileme eyleminden etkilendiği için edilgen infinitive gerekir.",
+    "id": 164
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The technician had the faulty cable ___.",
+    "options": [
+      "replace",
+      "replacing",
+      "replaced",
+      "to replace"
+    ],
+    "answer": 2,
+    "translation": "Teknisyen arızalı kabloyu değiştirtmişti.",
+    "explanation": "Have + object + V3, bir işi başkasına yaptırma yapısıdır.",
+    "id": 165
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "She would have attended the meeting if she ___ about it.",
+    "options": [
+      "was told",
+      "had been told",
+      "would be told",
+      "has told"
+    ],
+    "answer": 1,
+    "translation": "Kendisine haber verilmiş olsaydı toplantıya katılırdı.",
+    "explanation": "Third conditional if bölümünde past perfect passive kullanılır.",
+    "id": 166
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The equipment appears ___ during transportation.",
+    "options": [
+      "damage",
+      "to damage",
+      "to have been damaged",
+      "having damaged"
+    ],
+    "answer": 2,
+    "translation": "Ekipman taşıma sırasında hasar görmüş gibi görünüyor.",
+    "explanation": "Görünüş bildiren appear yapısında geçmişteki edilgen eylem to have been + V3 ile kurulur.",
+    "id": 167
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "By next June, the team ___ the entire fleet.",
+    "options": [
+      "will inspect",
+      "will have inspected",
+      "has inspected",
+      "is inspecting"
+    ],
+    "answer": 1,
+    "translation": "Gelecek hazirana kadar ekip tüm filoyu kontrol etmiş olacak.",
+    "explanation": "Gelecekte belirli bir zamana kadar tamamlanacak eylem future perfect kullanır.",
+    "id": 168
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The supervisor made the operator ___ the safety checklist again.",
+    "options": [
+      "to complete",
+      "completing",
+      "complete",
+      "completed"
+    ],
+    "answer": 2,
+    "translation": "Süpervizör operatöre güvenlik kontrol listesini yeniden doldurttu.",
+    "explanation": "Make + object + bare infinitive yapısı kullanılır.",
+    "id": 169
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The system is unlikely ___ without additional power.",
+    "options": [
+      "operate",
+      "operating",
+      "to operate",
+      "to be operated"
+    ],
+    "answer": 2,
+    "translation": "Sistemin ek güç olmadan çalışması olası görünmüyor.",
+    "explanation": "Unlikely sonrasında to-infinitive gelir; sistem burada kendi çalışmasını gerçekleştirir.",
+    "id": 170
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "Rarely ___ such a complicated maintenance issue.",
+    "options": [
+      "we encounter",
+      "do we encounter",
+      "we do encounter",
+      "encounter we"
+    ],
+    "answer": 1,
+    "translation": "Bu kadar karmaşık bir bakım sorunuyla nadiren karşılaşırız.",
+    "explanation": "Rarely cümle başında kullanıldığında yardımcı fiil özneden önce gelir.",
+    "id": 171
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The sooner we identify the cause, ___ it will be to prevent recurrence.",
+    "options": [
+      "easier",
+      "the easier",
+      "the easiest",
+      "more easy"
+    ],
+    "answer": 1,
+    "translation": "Nedeni ne kadar erken tespit edersek tekrarını önlemek o kadar kolay olur.",
+    "explanation": "The sooner..., the easier... paralel karşılaştırma yapısıdır.",
+    "id": 172
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "It was the battery controller ___ caused the interruption.",
+    "options": [
+      "what",
+      "who",
+      "that",
+      "where"
+    ],
+    "answer": 2,
+    "translation": "Kesintiye neden olan batarya kontrol ünitesiydi.",
+    "explanation": "Vurgulu cleft sentence yapısında It was ... that kullanılır.",
+    "id": 173
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The more data we collect, ___ our forecasts become.",
+    "options": [
+      "more accurate",
+      "the more accurate",
+      "the most accurate",
+      "accurately"
+    ],
+    "answer": 1,
+    "translation": "Ne kadar çok veri toplarsak tahminlerimiz o kadar doğru hâle gelir.",
+    "explanation": "The more..., the more... yapısı gerekir.",
+    "id": 174
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The proposal was rejected, ___ surprised the project team.",
+    "options": [
+      "that",
+      "what",
+      "which",
+      "who"
+    ],
+    "answer": 2,
+    "translation": "Teklif reddedildi ve bu durum proje ekibini şaşırttı.",
+    "explanation": "Önceki tüm cümleye gönderme yapan non-defining which kullanılır.",
+    "id": 175
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "Not until the final test ___ the underlying fault.",
+    "options": [
+      "we discovered",
+      "did we discover",
+      "we had discovered",
+      "discovered we"
+    ],
+    "answer": 1,
+    "translation": "Asıl arızayı ancak son testte keşfettik.",
+    "explanation": "Not until cümle başındaysa ana cümlede devrik yapı gerekir.",
+    "id": 176
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The report explains ___ the previous estimate was inaccurate.",
+    "options": [
+      "what",
+      "why",
+      "which",
+      "whose"
+    ],
+    "answer": 1,
+    "translation": "Rapor önceki tahminin neden hatalı olduğunu açıklıyor.",
+    "explanation": "Explain fiilini neden bildiren dolaylı soru yapısı why tamamlar.",
+    "id": 177
+  },
+  {
+    "category": "Grammar",
+    "topic": "Sentence Structure",
+    "prompt": "The equipment must be isolated before ___ any repairs.",
+    "options": [
+      "carry out",
+      "carrying out",
+      "to carry out",
+      "carried out"
+    ],
+    "answer": 1,
+    "translation": "Herhangi bir onarım yapmadan önce ekipmanın enerjisi kesilmelidir.",
+    "explanation": "Before edatından sonra gerund carrying out kullanılır.",
+    "id": 178
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "There is too ___ uncertainty to approve the investment.",
+    "options": [
+      "many",
+      "few",
+      "much",
+      "several"
+    ],
+    "answer": 2,
+    "translation": "Yatırımı onaylamak için çok fazla belirsizlik var.",
+    "explanation": "Uncertainty sayılamayan isimdir; much kullanılır.",
+    "id": 179
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "We have very ___ spare parts left in stock.",
+    "options": [
+      "little",
+      "few",
+      "much",
+      "a little"
+    ],
+    "answer": 1,
+    "translation": "Stokta çok az yedek parçamız kaldı.",
+    "explanation": "Spare parts sayılabilir çoğul isimdir; few kullanılır.",
+    "id": 180
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "A great deal of ___ has been invested in the project.",
+    "options": [
+      "resources",
+      "money",
+      "machines",
+      "employees"
+    ],
+    "answer": 1,
+    "translation": "Projeye büyük miktarda para yatırıldı.",
+    "explanation": "A great deal of sayılamayan isimlerle kullanılır; money sayılamaz.",
+    "id": 181
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "There were ___ complaints this month than last month.",
+    "options": [
+      "less",
+      "fewer",
+      "little",
+      "few"
+    ],
+    "answer": 1,
+    "translation": "Bu ay geçen aya göre daha az şikâyet vardı.",
+    "explanation": "Complaints sayılabilir çoğul isimdir; fewer gerekir.",
+    "id": 182
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "___ information was available when the decision was made.",
+    "options": [
+      "Few",
+      "Several",
+      "A few",
+      "Very little"
+    ],
+    "answer": 3,
+    "translation": "Karar verildiğinde çok az bilgi mevcuttu.",
+    "explanation": "Information sayılamayan isimdir; very little kullanılır.",
+    "id": 183
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "The new process uses ___ equipment while producing the same output.",
+    "options": [
+      "fewer",
+      "less",
+      "many",
+      "several"
+    ],
+    "answer": 1,
+    "translation": "Yeni süreç aynı çıktıyı üretirken daha az ekipman kullanıyor.",
+    "explanation": "Equipment sayılamayan isimdir; daha az miktar için less kullanılır.",
+    "id": 184
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "Only a small number of vehicles ___ affected by the change.",
+    "options": [
+      "was",
+      "has",
+      "were",
+      "is"
+    ],
+    "answer": 2,
+    "translation": "Değişiklikten yalnızca az sayıda araç etkilendi.",
+    "explanation": "A small number of + çoğul isim, çoğul fiil alır.",
+    "id": 185
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "The majority of the equipment ___ already been inspected.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": 1,
+    "translation": "Ekipmanın çoğu zaten kontrol edildi.",
+    "explanation": "Equipment sayılamayan tekil isimdir; the majority of ile has kullanılır.",
+    "id": 186
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "There is hardly ___ room for further improvement.",
+    "options": [
+      "many",
+      "some",
+      "any",
+      "few"
+    ],
+    "answer": 2,
+    "translation": "Daha fazla gelişme için neredeyse hiç alan yok.",
+    "explanation": "Hardly any, neredeyse hiç anlamına gelir.",
+    "id": 187
+  },
+  {
+    "category": "Grammar",
+    "topic": "Expressing Quantity",
+    "prompt": "We need ___ more time to verify the results.",
+    "options": [
+      "a few",
+      "a little",
+      "many",
+      "several"
+    ],
+    "answer": 1,
+    "translation": "Sonuçları doğrulamak için biraz daha zamana ihtiyacımız var.",
+    "explanation": "Time sayılamayan isimdir; olumlu az miktar için a little kullanılır.",
+    "id": 188
+  },
+  {
+    "category": "Grammar",
+    "topic": "Articles & Prepositions",
+    "prompt": "The findings are based ___ data collected over six months.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "for"
+    ],
+    "answer": 2,
+    "translation": "Bulgular altı ay boyunca toplanan verilere dayanıyor.",
+    "explanation": "Be based on kalıbı kullanılır.",
+    "id": 189
+  },
+  {
+    "category": "Grammar",
+    "topic": "Articles & Prepositions",
+    "prompt": "The technician has considerable experience ___ lithium-ion systems.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "by"
+    ],
+    "answer": 1,
+    "translation": "Teknisyen lityum iyon sistemleri konusunda önemli deneyime sahip.",
+    "explanation": "Experience in a field kalıbı kullanılır.",
+    "id": 190
+  },
+  {
+    "category": "Grammar",
+    "topic": "Articles & Prepositions",
+    "prompt": "The equipment is capable ___ operating in extreme temperatures.",
+    "options": [
+      "to",
+      "for",
+      "of",
+      "with"
+    ],
+    "answer": 2,
+    "translation": "Ekipman aşırı sıcaklıklarda çalışabilecek kapasitededir.",
+    "explanation": "Capable of + gerund kalıbı kullanılır.",
+    "id": 191
+  },
+  {
+    "category": "Grammar",
+    "topic": "Conjunctions",
+    "prompt": "The repair was completed on time, ___ the limited availability of spare parts.",
+    "options": [
+      "although",
+      "despite",
+      "because",
+      "whereas"
+    ],
+    "answer": 1,
+    "translation": "Yedek parçaların sınırlı bulunabilirliğine rağmen onarım zamanında tamamlandı.",
+    "explanation": "Despite ardından isim öbeği gelir.",
+    "id": 192
+  },
+  {
+    "category": "Grammar",
+    "topic": "Conjunctions",
+    "prompt": "You must report the fault immediately; ___, it may cause further damage.",
+    "options": [
+      "otherwise",
+      "therefore",
+      "moreover",
+      "similarly"
+    ],
+    "answer": 0,
+    "translation": "Arızayı hemen bildirmelisin; aksi takdirde daha fazla hasara neden olabilir.",
+    "explanation": "Otherwise, aksi takdirde anlamında sonuç/uyarı bağlacıdır.",
+    "id": 193
+  },
+  {
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The proposal was rejected because it was financially ___.",
+    "options": [
+      "viability",
+      "viable",
+      "viably",
+      "unviability"
+    ],
+    "answer": 1,
+    "translation": "Teklif finansal açıdan uygulanabilir olmadığı için reddedildi.",
+    "explanation": "Was fiilinden sonra yüklem sıfatı viable gerekir.",
+    "id": 194
+  },
+  {
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The company responded to the complaint ___.",
+    "options": [
+      "professional",
+      "profession",
+      "professionally",
+      "profess"
+    ],
+    "answer": 2,
+    "translation": "Şirket şikâyete profesyonelce yanıt verdi.",
+    "explanation": "Responded fiilini nitelemek için zarf professionally kullanılır.",
+    "id": 195
+  },
+  {
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The ___ of the new system will be assessed after six months.",
+    "options": [
+      "perform",
+      "performance",
+      "performing",
+      "performative"
+    ],
+    "answer": 1,
+    "translation": "Yeni sistemin performansı altı ay sonra değerlendirilecek.",
+    "explanation": "The ... of yapısında isim performance kullanılır.",
+    "id": 196
+  },
+  {
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The figures show a ___ improvement in energy efficiency.",
+    "options": [
+      "notice",
+      "noticeable",
+      "noticeably",
+      "noticed"
+    ],
+    "answer": 1,
+    "translation": "Rakamlar enerji verimliliğinde fark edilir bir iyileşme gösteriyor.",
+    "explanation": "Improvement isimdir; önünde sıfat noticeable gerekir.",
+    "id": 197
+  },
+  {
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The manager explained the change with great ___.",
+    "options": [
+      "clear",
+      "clearly",
+      "clarity",
+      "clarify"
+    ],
+    "answer": 2,
+    "translation": "Müdür değişikliği büyük bir açıklıkla anlattı.",
+    "explanation": "With great ifadesinden sonra isim clarity gelir.",
+    "id": 198
+  },
+  {
+    "category": "Grammar",
+    "topic": "Parts of Speech",
+    "prompt": "The new procedure should be implemented ___.",
+    "options": [
+      "consistent",
+      "consistency",
+      "consistently",
+      "consisted"
+    ],
+    "answer": 2,
+    "translation": "Yeni prosedür tutarlı biçimde uygulanmalıdır.",
+    "explanation": "Implemented fiilini niteleyen zarf consistently kullanılır.",
+    "id": 199
+  },
+  {
+    "category": "Grammar",
+    "topic": "Verb Forms",
+    "prompt": "The report should ___ before it is circulated.",
+    "options": [
+      "proofread",
+      "be proofread",
+      "have proofread",
+      "proofreading"
+    ],
+    "answer": 1,
+    "translation": "Rapor dağıtıma çıkarılmadan önce redaksiyondan geçirilmelidir.",
+    "explanation": "Rapor eylemden etkilendiği için modal passive: should be + V3.",
+    "id": 200
+  },
+  {
+    "category": "Grammar",
+    "topic": "Pronouns",
+    "prompt": "The client asked whether the revised figures were ___ or ours.",
+    "options": [
+      "their",
+      "theirs",
+      "them",
+      "they"
+    ],
+    "answer": 1,
+    "translation": "Müşteri revize edilmiş rakamların kendilerine mi yoksa bize mi ait olduğunu sordu.",
+    "explanation": "Or bağlacından sonra bağımsız iyelik zamiri theirs kullanılır.",
+    "id": 201
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "A thorough ___ of the incident revealed several contributing factors.",
+    "options": [
+      "investigate",
+      "investigation",
+      "investigative",
+      "investigated"
+    ],
+    "answer": 1,
+    "translation": "Olayın kapsamlı bir soruşturması birkaç katkıda bulunan faktörü ortaya çıkardı.",
+    "explanation": "A thorough sıfatından sonra isim investigation gelir.",
+    "id": 202
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The ___ of the new charging stations is scheduled for December.",
+    "options": [
+      "install",
+      "installation",
+      "installed",
+      "installing"
+    ],
+    "answer": 1,
+    "translation": "Yeni şarj istasyonlarının kurulumu aralık ayına planlandı.",
+    "explanation": "The ... of yapısında isim installation kullanılır.",
+    "id": 203
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The manager requested a detailed ___ of the monthly figures.",
+    "options": [
+      "compare",
+      "comparison",
+      "comparative",
+      "comparably"
+    ],
+    "answer": 1,
+    "translation": "Müdür aylık rakamların ayrıntılı bir karşılaştırmasını istedi.",
+    "explanation": "A detailed sonrasında isim comparison gerekir.",
+    "id": 204
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The sudden ___ in demand caught the supplier by surprise.",
+    "options": [
+      "increase",
+      "increasing",
+      "increased",
+      "increasable"
+    ],
+    "answer": 0,
+    "translation": "Talepteki ani artış tedarikçiyi hazırlıksız yakaladı.",
+    "explanation": "The sudden ifadesinden sonra isim increase gelir.",
+    "id": 205
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "Staff ___ is essential when introducing new technology.",
+    "options": [
+      "involve",
+      "involvement",
+      "involved",
+      "involving"
+    ],
+    "answer": 1,
+    "translation": "Yeni teknoloji tanıtılırken personelin katılımı önemlidir.",
+    "explanation": "Staff sonrasında isim involvement kullanılır.",
+    "id": 206
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The main ___ of the project is to reduce operating costs.",
+    "options": [
+      "object",
+      "objective",
+      "objectively",
+      "objected"
+    ],
+    "answer": 1,
+    "translation": "Projenin temel amacı işletme maliyetlerini azaltmaktır.",
+    "explanation": "The main sonrasında isim objective gerekir.",
+    "id": 207
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "There has been a noticeable ___ in equipment availability.",
+    "options": [
+      "improve",
+      "improvement",
+      "improved",
+      "improving"
+    ],
+    "answer": 1,
+    "translation": "Ekipman kullanılabilirliğinde fark edilir bir iyileşme oldu.",
+    "explanation": "A noticeable sonrasında isim improvement gelir.",
+    "id": 208
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Noun Identification",
+    "prompt": "The ___ of accurate records cannot be overstated.",
+    "options": [
+      "important",
+      "importance",
+      "importantly",
+      "import"
+    ],
+    "answer": 1,
+    "translation": "Doğru kayıtların önemi yeterince vurgulanamaz.",
+    "explanation": "The ... of yapısında isim importance kullanılır.",
+    "id": 209
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The new policy will ___ the approval process.",
+    "options": [
+      "simplification",
+      "simplify",
+      "simple",
+      "simply"
+    ],
+    "answer": 1,
+    "translation": "Yeni politika onay sürecini basitleştirecek.",
+    "explanation": "Will sonrasında yalın fiil simplify gelir.",
+    "id": 210
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The findings ___ that further investigation is necessary.",
+    "options": [
+      "suggestion",
+      "suggest",
+      "suggestive",
+      "suggestedly"
+    ],
+    "answer": 1,
+    "translation": "Bulgular daha fazla incelemenin gerekli olduğunu gösteriyor.",
+    "explanation": "Özne findings çoğul; yüklem fiil suggest.",
+    "id": 211
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The department aims to ___ the number of preventable failures.",
+    "options": [
+      "minimisation",
+      "minimum",
+      "minimise",
+      "minimal"
+    ],
+    "answer": 2,
+    "translation": "Departman önlenebilir arızaların sayısını en aza indirmeyi hedefliyor.",
+    "explanation": "To sonrasında fiil minimise kullanılır.",
+    "id": 212
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The team will ___ the proposal before making a decision.",
+    "options": [
+      "evaluation",
+      "evaluate",
+      "evaluative",
+      "evaluated"
+    ],
+    "answer": 1,
+    "translation": "Ekip karar vermeden önce teklifi değerlendirecek.",
+    "explanation": "Will sonrasında yalın fiil evaluate gerekir.",
+    "id": 213
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "The new software can ___ unusual patterns in energy use.",
+    "options": [
+      "detection",
+      "detective",
+      "detect",
+      "detectable"
+    ],
+    "answer": 2,
+    "translation": "Yeni yazılım enerji kullanımındaki olağandışı örüntüleri tespit edebilir.",
+    "explanation": "Can modalından sonra yalın fiil detect gelir.",
+    "id": 214
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Verb Identification",
+    "prompt": "We need to ___ the results with an independent source.",
+    "options": [
+      "verification",
+      "verify",
+      "verifiable",
+      "verified"
+    ],
+    "answer": 1,
+    "translation": "Sonuçları bağımsız bir kaynakla doğrulamamız gerekiyor.",
+    "explanation": "Need to sonrasında yalın fiil verify kullanılır.",
+    "id": 215
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The evidence provides a ___ explanation for the unexpected result.",
+    "options": [
+      "plausible",
+      "reluctant",
+      "scarce",
+      "temporary"
+    ],
+    "answer": 0,
+    "translation": "Kanıt, beklenmedik sonuç için makul bir açıklama sunuyor.",
+    "explanation": "Plausible, makul ve inandırıcı anlamına gelir.",
+    "id": 216
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The two reports are broadly ___, despite minor differences.",
+    "options": [
+      "consistent",
+      "reluctant",
+      "excessive",
+      "ambiguous"
+    ],
+    "answer": 0,
+    "translation": "Küçük farklılıklara rağmen iki rapor genel olarak tutarlıdır.",
+    "explanation": "Consistent, birbiriyle uyumlu/tutarlı demektir.",
+    "id": 217
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The new measures are intended to ___ operational risks.",
+    "options": [
+      "exaggerate",
+      "mitigate",
+      "postpone",
+      "derive"
+    ],
+    "answer": 1,
+    "translation": "Yeni önlemler operasyonel riskleri azaltmayı amaçlıyor.",
+    "explanation": "Mitigate, riski veya olumsuz etkiyi hafifletmek demektir.",
+    "id": 218
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The data should be interpreted with ___.",
+    "options": [
+      "caution",
+      "cautious",
+      "cautiously",
+      "cautioned"
+    ],
+    "answer": 0,
+    "translation": "Veriler dikkatle yorumlanmalıdır.",
+    "explanation": "With edatından sonra isim caution gelir.",
+    "id": 219
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The findings are relevant ___ long-term planning.",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "with"
+    ],
+    "answer": 1,
+    "translation": "Bulgular uzun vadeli planlama açısından önemlidir.",
+    "explanation": "Relevant to kalıbı kullanılır.",
+    "id": 220
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The project was delayed due to unforeseen ___.",
+    "options": [
+      "circumstances",
+      "circumstantial",
+      "circumvent",
+      "circumventing"
+    ],
+    "answer": 0,
+    "translation": "Proje öngörülemeyen koşullar nedeniyle gecikti.",
+    "explanation": "Unforeseen sonrasında çoğul isim circumstances gelir.",
+    "id": 221
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The new design is more ___ in terms of energy consumption.",
+    "options": [
+      "economy",
+      "economical",
+      "economically",
+      "economise"
+    ],
+    "answer": 1,
+    "translation": "Yeni tasarım enerji tüketimi açısından daha ekonomiktir.",
+    "explanation": "More sonrasında sıfat economical kullanılır.",
+    "id": 222
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The manager asked for a ___ estimate rather than an exact figure.",
+    "options": [
+      "rough",
+      "roughly",
+      "roughness",
+      "roughen"
+    ],
+    "answer": 0,
+    "translation": "Müdür kesin rakam yerine yaklaşık bir tahmin istedi.",
+    "explanation": "Estimate isimdir; onu niteleyen sıfat rough gerekir.",
+    "id": 223
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The supplier has failed to ___ its contractual obligations.",
+    "options": [
+      "fulfil",
+      "fulfilment",
+      "fulfilled",
+      "fulfilling"
+    ],
+    "answer": 0,
+    "translation": "Tedarikçi sözleşmeden doğan yükümlülüklerini yerine getiremedi.",
+    "explanation": "Fail to sonrasında yalın fiil fulfil kullanılır.",
+    "id": 224
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "A ___ approach is needed because the issue has several causes.",
+    "options": [
+      "comprehensive",
+      "minor",
+      "casual",
+      "temporary"
+    ],
+    "answer": 0,
+    "translation": "Sorunun birkaç nedeni olduğu için kapsamlı bir yaklaşım gerekiyor.",
+    "explanation": "Comprehensive, bütün yönleri kapsayan anlamındadır.",
+    "id": 225
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The results were ___ by an independent audit.",
+    "options": [
+      "validated",
+      "estimated",
+      "postponed",
+      "withdrawn"
+    ],
+    "answer": 0,
+    "translation": "Sonuçlar bağımsız bir denetim tarafından doğrulandı.",
+    "explanation": "Validate, geçerliliğini doğrulamak anlamına gelir.",
+    "id": 226
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The proposal is feasible, but its long-term ___ remains uncertain.",
+    "options": [
+      "sustain",
+      "sustainable",
+      "sustainability",
+      "sustainably"
+    ],
+    "answer": 2,
+    "translation": "Teklif uygulanabilir ancak uzun vadeli sürdürülebilirliği belirsiz.",
+    "explanation": "Its sonrasında isim sustainability gerekir.",
+    "id": 227
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "We cannot ___ the possibility of a software-related fault.",
+    "options": [
+      "rule out",
+      "bring up",
+      "take after",
+      "look down"
+    ],
+    "answer": 0,
+    "translation": "Yazılımla ilgili bir arıza olasılığını göz ardı edemeyiz.",
+    "explanation": "Rule out, bir olasılığı elemek/olasılık dışı bırakmak demektir.",
+    "id": 228
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The meeting was ___ until the technical team could attend.",
+    "options": [
+      "put off",
+      "put up",
+      "put through",
+      "put away"
+    ],
+    "answer": 0,
+    "translation": "Teknik ekip katılabilene kadar toplantı ertelendi.",
+    "explanation": "Put off, ertelemek anlamına gelir.",
+    "id": 229
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The old system will be ___ once the replacement is ready.",
+    "options": [
+      "phased out",
+      "taken in",
+      "broken into",
+      "run over"
+    ],
+    "answer": 0,
+    "translation": "Yedek sistem hazır olduğunda eski sistem aşamalı olarak kullanımdan kaldırılacak.",
+    "explanation": "Phase out, aşamalı olarak kullanımdan kaldırmak demektir.",
+    "id": 230
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The technician asked the operator to ___ the machine while checks were carried out.",
+    "options": [
+      "switch off",
+      "look up",
+      "take after",
+      "bring about"
+    ],
+    "answer": 0,
+    "translation": "Teknisyen kontroller yapılırken operatörden makineyi kapatmasını istedi.",
+    "explanation": "Switch off, cihazı kapatmak demektir.",
+    "id": 231
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The team needs to ___ why the same error keeps occurring.",
+    "options": [
+      "find out",
+      "give away",
+      "take off",
+      "set aside"
+    ],
+    "answer": 0,
+    "translation": "Ekip aynı hatanın neden tekrarlandığını öğrenmeli.",
+    "explanation": "Find out, öğrenmek veya ortaya çıkarmak anlamındadır.",
+    "id": 232
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "We have ___ the spare batteries, so a new order is required.",
+    "options": [
+      "run out of",
+      "look forward to",
+      "come up with",
+      "get along with"
+    ],
+    "answer": 0,
+    "translation": "Yedek bataryalarımız tükendi, bu nedenle yeni sipariş gerekiyor.",
+    "explanation": "Run out of, bir şeyin tükenmesi demektir.",
+    "id": 233
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The supervisor will ___ the issue at tomorrow’s briefing.",
+    "options": [
+      "bring up",
+      "break down",
+      "turn down",
+      "take over"
+    ],
+    "answer": 0,
+    "translation": "Süpervizör konuyu yarınki bilgilendirmede gündeme getirecek.",
+    "explanation": "Bring up, bir konuyu gündeme taşımak demektir.",
+    "id": 234
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Phrasal Verbs",
+    "prompt": "The engineers managed to ___ a practical solution.",
+    "options": [
+      "come up with",
+      "come across",
+      "come down with",
+      "come out"
+    ],
+    "answer": 0,
+    "translation": "Mühendisler pratik bir çözüm bulmayı başardı.",
+    "explanation": "Come up with, fikir veya çözüm üretmek demektir.",
+    "id": 235
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "We should not jump to conclusions; let us ___ before deciding.",
+    "options": [
+      "weigh the options",
+      "break the ice",
+      "miss the point",
+      "spill the beans"
+    ],
+    "answer": 0,
+    "translation": "Hemen sonuca varmamalıyız; karar vermeden önce seçenekleri değerlendirelim.",
+    "explanation": "Weigh the options, seçenekleri dikkatlice değerlendirmek demektir.",
+    "id": 236
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "The installation went smoothly because the team had everything ___.",
+    "options": [
+      "under control",
+      "out of hand",
+      "in hot water",
+      "on thin ice"
+    ],
+    "answer": 0,
+    "translation": "Kurulum sorunsuz ilerledi çünkü ekip her şeyi kontrol altında tutuyordu.",
+    "explanation": "Under control, kontrol altında anlamındadır.",
+    "id": 237
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "The unexpected delay was frustrating, but it was not the end of the ___.",
+    "options": [
+      "world",
+      "road",
+      "line",
+      "story"
+    ],
+    "answer": 0,
+    "translation": "Beklenmedik gecikme sinir bozucuydu ancak dünyanın sonu değildi.",
+    "explanation": "The end of the world, çok büyük/kötü bir durum anlamında kullanılan deyimdir.",
+    "id": 238
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Idioms",
+    "prompt": "Before investing, we need to know the ___ and cons.",
+    "options": [
+      "pros",
+      "benefits",
+      "advantages",
+      "gains"
+    ],
+    "answer": 0,
+    "translation": "Yatırım yapmadan önce artılarını ve eksilerini bilmemiz gerekiyor.",
+    "explanation": "Pros and cons, avantajlar ve dezavantajlar anlamındaki sabit ifadedir.",
+    "id": 239
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The report highlights a ___ gap between planned and actual expenditure.",
+    "options": [
+      "substantial",
+      "substantially",
+      "substance",
+      "substantiate"
+    ],
+    "answer": 0,
+    "translation": "Rapor planlanan ve gerçekleşen harcama arasında önemli bir farkı vurguluyor.",
+    "explanation": "Gap isimdir; onu niteleyen sıfat substantial kullanılır.",
+    "id": 240
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The company must ensure that its targets are ___ and measurable.",
+    "options": [
+      "realistic",
+      "reality",
+      "realistically",
+      "realise"
+    ],
+    "answer": 0,
+    "translation": "Şirket hedeflerinin gerçekçi ve ölçülebilir olmasını sağlamalı.",
+    "explanation": "Are fiilinden sonra paralel sıfat realistic kullanılır.",
+    "id": 241
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The maintenance records provide valuable ___ into recurring faults.",
+    "options": [
+      "insight",
+      "insightful",
+      "insightfully",
+      "insighted"
+    ],
+    "answer": 0,
+    "translation": "Bakım kayıtları tekrarlayan arızalar hakkında değerli içgörü sağlar.",
+    "explanation": "Provide insight into, bir konu hakkında fikir/içgörü sağlamak kalıbıdır.",
+    "id": 242
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The change may have an adverse ___ on productivity.",
+    "options": [
+      "affect",
+      "effect",
+      "effective",
+      "effectively"
+    ],
+    "answer": 1,
+    "translation": "Değişiklik verimlilik üzerinde olumsuz bir etkiye sahip olabilir.",
+    "explanation": "An adverse sonrasında isim effect gelir; affect genellikle fiildir.",
+    "id": 243
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The figures need to be ___ before they are published.",
+    "options": [
+      "verified",
+      "verifiable",
+      "verification",
+      "verifying"
+    ],
+    "answer": 0,
+    "translation": "Rakamlar yayımlanmadan önce doğrulanmalı.",
+    "explanation": "Need to be + V3 edilgen yapı gerekir; verified doğru biçimdir.",
+    "id": 244
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The new policy aims to ensure greater ___ across all locations.",
+    "options": [
+      "uniform",
+      "uniformity",
+      "uniformly",
+      "uniformed"
+    ],
+    "answer": 1,
+    "translation": "Yeni politika tüm lokasyonlarda daha fazla standartlaşma sağlamayı amaçlıyor.",
+    "explanation": "Greater sonrasında isim uniformity gerekir.",
+    "id": 245
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The results should not be ___ beyond the sample studied.",
+    "options": [
+      "generalise",
+      "generalisation",
+      "generalised",
+      "generalising"
+    ],
+    "answer": 2,
+    "translation": "Sonuçlar incelenen örneklemin ötesine genellenmemelidir.",
+    "explanation": "Should not be + V3 edilgen yapı gerekir; generalised doğru biçimdir.",
+    "id": 246
+  },
+  {
+    "category": "Vocabulary",
+    "topic": "Academic Vocabulary",
+    "prompt": "The report offers a ___ overview of the current situation.",
+    "options": [
+      "concise",
+      "concisely",
+      "conciseness",
+      "concision"
+    ],
+    "answer": 0,
+    "translation": "Rapor mevcut durumun özlü bir genel görünümünü sunuyor.",
+    "explanation": "Overview isimdir; onu niteleyen sıfat concise gerekir.",
+    "id": 247
+  },
+  {
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "Which conclusion is best supported?",
+    "options": [
+      "Learning from errors requires examining systems as well as individuals",
+      "All errors are caused by unclear procedures",
+      "Employees should never be held accountable",
+      "Investigations should be avoided"
+    ],
+    "answer": 0,
+    "translation": "Metnin en iyi desteklediği sonuç hangisidir?",
+    "explanation": "Hatalardan öğrenmek için hem bireyler hem de sistem koşulları incelenmelidir.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future.",
+    "id": 248
+  },
+  {
+    "category": "Reading",
+    "topic": "Inference",
+    "prompt": "Why might focusing only on individual blame be counterproductive?",
+    "options": [
+      "It can stop the organisation from identifying wider causes",
+      "It guarantees that errors will not recur",
+      "It makes procedures clearer automatically",
+      "It removes the need for investigation"
+    ],
+    "answer": 0,
+    "translation": "Yalnızca bireysel suçlamaya odaklanmak neden ters etki yaratabilir?",
+    "explanation": "Suçlama odaklı yaklaşım, hataya yol açan sistemsel koşulların görülmesini ve kurumsal öğrenmeyi engelleyebilir.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future.",
+    "id": 249
+  },
+  {
+    "category": "Reading",
+    "topic": "Vocabulary in Context",
+    "prompt": "The word “likelihood” is closest in meaning to ___.",
+    "options": [
+      "probability",
+      "responsibility",
+      "difficulty",
+      "preference"
+    ],
+    "answer": 0,
+    "translation": "Likelihood kelimesinin en yakın anlamı hangisidir?",
+    "explanation": "Likelihood, olasılık anlamına gelir.",
+    "passage": "Errors are often treated as evidence of individual failure, but this view can prevent organisations from learning. A more constructive approach is to examine the conditions in which an error occurred. Was the procedure unclear? Was the employee adequately trained? Was the equipment suitable for the task? This does not mean that individuals have no responsibility. Rather, it recognises that performance is shaped by both personal decisions and the working environment. When investigations focus on causes instead of blame, organisations can identify practical improvements and reduce the likelihood of similar incidents in the future.",
+    "id": 250
+  }
+]
